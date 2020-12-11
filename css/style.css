@@ -196,8 +196,8 @@ Extra (xl) large devices (large desktops, 1200px and up)
 
 /*-- Bootstrap Mobile Gutter Fix --*/
 .row, .container-fluid {
-  margin-left: 0px !important;
-  margin-right: 0px !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 /*-- Fixed Background Image --*/
