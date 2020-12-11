@@ -132,7 +132,7 @@
 
     <div class="col-11 mt-5 m-auto">
         <h1 class="display-4 text-center pt-4">PILLARS OF HOPE CHILDREN'S HOME</h1>
-        <div class="border-top border-dark w-75 mx-auto my-lg-3 my-sm-5"></div>
+        <div class="border-top border-dark w-75 mx-auto my-5 my-sm-3"></div>
         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis reprehenderit.</p>
         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis reprehenderit.</p>
         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis reprehenderit.</p>
@@ -297,7 +297,7 @@
 
 <!-- Start Footer -->
 
-<footer>
+<footer class="footer">
     <div class="container">
         <div class="row justify-content-center text-center text-light">
             <div class="col-mg-9">

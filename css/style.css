@@ -126,23 +126,23 @@ ul.social li {
 
 /*============= FOOTER =============*/
 
-footer {
+.footer {
   background-color: #383838;
   padding: 1rem 0 3rem;
 }
-footer .container {
+.footer .container {
   padding: 0!important;
 }
-footer img {
+.footer img {
   border-radius: 50%;
   height: 3.5rem;
   margin: 1.5rem auto;
 }
-footer a, .socket a {
+.footer a, .socket a {
   color: white;
   text-decoration: none;
 }
-footer a:hover {
+.footer a:hover {
   color: grey;
 }
 
