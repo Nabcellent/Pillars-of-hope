@@ -44,7 +44,7 @@
 
     <!-- Image Carousel -->
 
-    <div class="carousel slide" id="carousel" data-ride="carousel" data-interval="900000">
+    <div class="carousel slide" id="carousel" data-ride="carousel" data-interval="906000">
 
         <!-- Carousel Content -->
 
@@ -55,7 +55,7 @@
                     <div class="container">
                         <div class="row justify-content-end">
                             <div class="d-none d-md-block col-md-11 col-lg-9 col-xl-8 bg-dark text-right">
-                                <h3 class="pb-3">Pillars of Hope Children's Home</h3>
+                                <h3 class="pb-3">Pillars of Hope <br> Children's Home</h3>
                                 <div class="border-top border-white mb-3 w-75 ml-auto"></div>
                                 <blockquote>
                                     <p class="lead">I have learnt to give not because I have much but because I know how it feels to have nothing</p>

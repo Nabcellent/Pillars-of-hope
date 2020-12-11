@@ -67,11 +67,11 @@ html, body {
   padding: 1rem;
 }
 .carousel-caption h3 {
-  font-size: 1.6rem;
+  font-size: 2.3rem;
   font-weight: 300;
 }
 p.lead {
-  font-size: 1rem;
+  font-size: 1.4rem;
 }
 
 /*============= SOCIAL MEDIA STICKY BAR =============*/
@@ -159,19 +159,54 @@ ul.social li {
 
 /* Devices under 1199px (xl) */
 @media (max-width: 1199.98px) {
-
+  .carousel-caption h3 {
+    font-size: 1.8rem;
+  }
 }
 /* Devices under 992px (xl) */
 @media (max-width: 991.98px) {
-
+  p.lead {
+    font-size: 1.2rem;
+  }
+  .carousel-indicators li {
+    width: 40px;
+    height: 4px;
+    margin: 0 4px;
+  }
 }
 /* Devices under 768px (md) */
 @media (max-width: 767.98px) {
-
+  p.lead {
+    font-size: 1.1rem;
+  }
+  .navbar-brand img {
+    height: 1.5rem;
+  }
+  .navbar {
+    font-size: 12pt;
+    padding: .4rem .6rem;
+  }
+  .navbar-toggler {
+    transform: scale(.9);
+  }
+  .jumbotron .svg-inline--fa {
+    font-size: 1.6rem;
+    margin: 0 .8rem;
+  }
 }
 /* Devices under 576px (sm) */
 @media (max-width: 575.98px) {
-
+  .navbar-brand img {
+    height: 1.3rem;
+  }
+  .navbar {
+    font-size: 11pt;
+    padding: .3rem .6rem;
+  }
+  .jumbotron .svg-inline--fa {
+    font-size: 1.4rem;
+    margin: 0 .5rem;
+  }
 }
 
 
