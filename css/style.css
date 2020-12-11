@@ -126,10 +126,33 @@ ul.social li {
 
 /*============= FOOTER =============*/
 
+footer {
+  background-color: #383838;
+  padding: 1rem 0 3rem;
+}
+footer .container {
+  padding: 0!important;
+}
+footer img {
+  border-radius: 50%;
+  height: 3.5rem;
+  margin: 1.5rem auto;
+}
+footer a, .socket a {
+  color: white;
+  text-decoration: none;
+}
+footer a:hover {
+  color: grey;
+}
 
 
 /*============= SOCKET =============*/
 
+.socket {
+  background-color: #222222;
+  border-top: .1rem solid gray;
+}
 
 
 /*============= MEDIA QUERIES =============*/
