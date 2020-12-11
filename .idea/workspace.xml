@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
       <workItem from="1607609532794" duration="33000" />
       <workItem from="1607609654513" duration="18504000" />
       <workItem from="1607632524662" duration="9568000" />
-      <workItem from="1607651442769" duration="13473000" />
+      <workItem from="1607651442769" duration="14010000" />
     </task>
     <task id="LOCAL-00001" summary="Added composer.json">
       <created>1607653705196</created>
@@ -72,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607654640282</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added more paragraphs to main page heading&#10;Completed full width of first Page">
+      <created>1607690797191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607690797191</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +87,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added composer.json" />
     <MESSAGE value="Added more paragraphs to main page heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more paragraphs to main page heading" />
+    <MESSAGE value="Added more paragraphs to main page heading&#10;Completed full width of first Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more paragraphs to main page heading&#10;Completed full width of first Page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -132,7 +132,7 @@
 
     <div class="col-11 mt-5 m-auto">
         <h1 class="display-4 text-center pt-4">PILLARS OF HOPE CHILDREN'S HOME</h1>
-        <div class="border-top border-dark w-50 mx-auto my-3"></div>
+        <div class="border-top border-dark w-75 mx-auto my-4"></div>
         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis reprehenderit.</p>
         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis reprehenderit.</p>
         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis reprehenderit.</p>
