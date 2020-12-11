@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="" />
+    <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,11 +18,12 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="composer.json" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pillars-of-hope-childrens-home" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lT84cFhErKa5MY1RwWMljDBhCe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,7 +52,7 @@
       <workItem from="1607609532794" duration="33000" />
       <workItem from="1607609654513" duration="18504000" />
       <workItem from="1607632524662" duration="9568000" />
-      <workItem from="1607651442769" duration="760000" />
+      <workItem from="1607651442769" duration="1959000" />
     </task>
     <servers />
   </component>

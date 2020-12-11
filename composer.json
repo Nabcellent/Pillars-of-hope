@@ -1,0 +1,14 @@
+{
+  "name": "dummy/dummy",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Nabcellent",
+      "email": "michael.nabangi@strathmore.edu"
+    }
+  ],
+  "require": {
+  }
+}
