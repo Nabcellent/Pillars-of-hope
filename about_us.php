@@ -20,24 +20,10 @@ require_once "templates/header.php";
     <!-- Start Social Jumbotron -->
 
     <div class="jumbotron sticky-top">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row justify-content-center text-center">
-                <div class="d-none d-xl-block col-xl-6 pt-1">
-                    <h3>Connect with us on social media!</h3>
-                </div>
-                <div class="col-sm-10 col-md-8 col-lg-7 col-xl-6 pt-1">
-                    <ul class="social">
-                        <li><a href="" target="_blank" title="Twitter"><i class="fab fa-twitter"
-                                                                          style="color: #00aced"></i></a></li>
-                        <li><a href="" target="_blank" title="Facebook"><i class="fab fa-facebook"
-                                                                           style="color: #3b5998"></i></a></li>
-                        <li><a href="" target="_blank" title="Instagram"><i class="fab fa-instagram"
-                                                                            style="color: #3f729b"></i></a></li>
-                        <li><a href="" target="_blank" title="Youtube"><i class="fab fa-youtube"
-                                                                          style="color: #c4302b"></i></a></li>
-                        <li><a href="" target="_blank" title="Gmail"><i class="fas fa-envelope"
-                                                                        style="color: #0e76a8"></i></a></li>
-                    </ul>
+                <div class="col-sm-6 col-md-7 col-lg-8 col-xl-10 pt-1">
+                    <h1 class="display-4 text-center">PILLARS OF HOPE CHILDREN'S HOME</h1>
                 </div>
             </div>
         </div>
@@ -47,12 +33,6 @@ require_once "templates/header.php";
     <!-- Start Two Column Section -->
 
     <div class="container my-4">
-        <div class="row justify-content-center">
-            <div class="col-lg-4 md-3 my-lg-auto">
-                <h1 class="text-center font-weight-bold">OUR HISTORY</h1>
-            </div>
-        </div>
-        <hr class="my-0 bg-dark">
         <div class="row py-4">
             <div class="col-lg-4 mb-4 my-lg-auto">
                 <img src="img/responsive.png" alt="SOME LOGO" class="w-100">
@@ -70,7 +50,7 @@ require_once "templates/header.php";
     <!-- Main Page Heading -->
 
     <div class="col-11 mt-5 m-auto">
-        <h1 class="display-4 text-center pt-4">PILLARS OF HOPE CHILDREN'S HOME</h1>
+        <h1 class="text-center font-weight-bold">OUR HISTORY</h1>
         <div class="border-top border-dark w-75 mx-auto my-5 my-sm-3"></div>
         <p>This is a non profitable institution which was started in 2013 with two
             gentlemen namely Sir Vitalis Nyambeka and Sir Moses Muchika. Sir Vitalis

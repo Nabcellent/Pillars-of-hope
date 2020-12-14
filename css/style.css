@@ -304,6 +304,8 @@ Extra (xl) large devices (large desktops, 1200px and up)
   font-size: 16pt;
 }
 
+
+
 @media screen and (max-width:1200px) {
   .inner-container {
     padding: 80px;
