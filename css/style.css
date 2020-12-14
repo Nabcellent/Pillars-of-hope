@@ -1,3 +1,5 @@
+/*////////////////////////////////////////////////////////  HOME PAGE  ///////////////////////////////////////////////*/
+
 /*-- Reset --*/
 html, body {
   overflow-x: hidden;
@@ -262,4 +264,65 @@ Extra (xl) large devices (large desktops, 1200px and up)
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
   will-change: transform;
+}
+
+
+/*//////////////////////////////////////////////////////  ABOUT US PAGE  /////////////////////////////////////////////*/
+.about_us_container {
+  background-color: lightgrey;
+  padding: 0;
+}
+.about-section {
+  background-size: 50%;
+  background: #fdfdfd url("../img/tree1.jpg") no-repeat left;
+  overflow: hidden;
+  padding: 7rem 0;
+}
+.inner-container {
+  width: 55%;
+  float: right;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 7rem;
+  border-top-left-radius: 7rem;
+}
+.inner-container h1 {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  font-weight: 900;
+}
+.text {
+  font-size: 14pt;
+  color: #545454;
+  line-height: 1.7rem;
+  text-align: justify;
+  margin-bottom: 2rem;
+}
+.location {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 700;
+  font-size: 16pt;
+}
+
+@media screen and (max-width:1200px) {
+  .inner-container {
+    padding: 80px;
+  }
+}
+@media screen and (max-width:1000px) {
+  .about-section {
+    background-size: 100%;
+    padding: 100px 40px;
+  }
+  .inner-container {
+    width: 100%;
+  }
+}
+@media screen and (max-width:600px) {
+  .about-section {
+    padding: 0;
+  }
+  .inner-container {
+    padding: 60px;
+  }
 }
