@@ -60,7 +60,7 @@
       <workItem from="1607705925811" duration="11000" />
       <workItem from="1607706369385" duration="47000" />
       <workItem from="1607706444948" duration="12000" />
-      <workItem from="1607978701202" duration="8808000" />
+      <workItem from="1607978701202" duration="9945000" />
     </task>
     <task id="LOCAL-00001" summary="Added composer.json">
       <created>1607653705196</created>
@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607987136055</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="about_us.php">
+      <created>1607988007295</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607988007295</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

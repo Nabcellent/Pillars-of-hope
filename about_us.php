@@ -23,7 +23,7 @@ require_once "templates/header.php";
         <div class="container-fluid">
             <div class="row justify-content-center text-center">
                 <div class="col-sm-6 col-md-7 col-lg-8 col-xl-10 pt-1">
-                    <h1 class="display-4 text-center">PILLARS OF HOPE CHILDREN'S HOME</h1>
+                    <h1 class="display-4 text-center about_us_display_4">PILLARS OF HOPE CHILDREN'S HOME</h1>
                 </div>
             </div>
         </div>
