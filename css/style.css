@@ -15,7 +15,7 @@ html, body {
   border-radius: 50%;
 }
 .navbar {
-  background: linear-gradient(to right, white, #6C757D);
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.6), rgba(0, 0, 0, 0.6));
   font-size: 14pt;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -26,9 +26,10 @@ html, body {
 }
 .nav-link {
   color: white!important;
+  transition: transform .2s;
 }
-.nav-link.active,
-.nav-link:active {
+.nav-link:hover {
+  transform: scale(1.1);
   color: maroon!important;
 }
 
