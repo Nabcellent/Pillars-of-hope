@@ -26,7 +26,7 @@
                 <img src="../img/pillars%20logo.png" alt="logo" title="home logo">Pillars
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar_responsive">
-                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon text-white"></span>
             </button>
 
             <div class="collapse navbar-collapse" id="navbar_responsive">

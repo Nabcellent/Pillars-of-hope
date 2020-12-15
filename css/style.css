@@ -80,7 +80,7 @@ p.lead {
 /*============= SOCIAL MEDIA STICKY BAR =============*/
 
 .jumbotron {
-  background: linear-gradient(to right, #f2f2f2, #FBFBFB);
+  background: linear-gradient(to left, rgba(255, 255, 255, 0.6), rgba(0, 0, 0, 0.6));
   padding: 1rem 0 .5rem;
   margin-bottom: 0;
   border-radius: 0;
