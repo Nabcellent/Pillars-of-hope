@@ -8,10 +8,10 @@ require_once "templates/header.php";
 <section class="main-contact-section py-5">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-12">
+            <div class="col-lg-11">
                 <div class="card card-body py-5 border-0 shadow">
                     <div class="row">
-                        <div class="col-lg-3">
+                        <div class="col-lg-4">
                             <div class="card card-body card-contact bg-theme">
                                 <h1>Contact Us</h1>
                                 <div class="media mb-3 align-items-center">
@@ -60,7 +60,7 @@ require_once "templates/header.php";
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-9">
+                        <div class="col-lg-8">
                             <form id="contact_form">
                                 <div class="row">
                                     <div class="col-md-6">

@@ -375,20 +375,12 @@ section {
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 .card-body {
-  padding: 1rem 1rem;
+  padding: 1rem 0.7rem;
 }
 .card-contact {
   margin-left: -10rem;
   border-radius: 0;
   border: 1rem double;
-}
-.card-contact h1::before {
-  content: '';
-  height: 3px;
-  width: 80px;
-  background-color: white;
-  position: absolute;
-  bottom: -10px;
 }
 .card-contact h1 {
   color: white;

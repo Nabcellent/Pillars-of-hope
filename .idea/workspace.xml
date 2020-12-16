@@ -1,27 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contact_us.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Vitalis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Vitalis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+    <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="contact">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about_us.php" beforeDir="false" afterPath="$PROJECT_DIR$/about_us.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_us.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact_us.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/agency.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/background2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/background3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bootstrap2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/business.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/parallax.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tablet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/w3newbie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +62,7 @@
       <workItem from="1607705925811" duration="11000" />
       <workItem from="1607706369385" duration="47000" />
       <workItem from="1607706444948" duration="12000" />
-      <workItem from="1607978701202" duration="30705000" />
+      <workItem from="1607978701202" duration="31456000" />
     </task>
     <task id="LOCAL-00001" summary="Added composer.json">
       <created>1607653705196</created>
@@ -186,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608020695566</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="contact">
+      <created>1608077760368</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608077760531</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +191,8 @@
     <MESSAGE value="Modified for mobile and tablet css" />
     <MESSAGE value="about_us.php" />
     <MESSAGE value="nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="nav" />
+    <MESSAGE value="contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
