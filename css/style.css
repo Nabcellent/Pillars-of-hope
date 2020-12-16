@@ -370,17 +370,22 @@ section {
   background: #fdfdfd url("../img/grass2.jpg") no-repeat left;
   background-size: cover;
 }
+.main-contact-section {
+  padding: 2rem;
+}
 .bg-theme {
-  background: rgba(17, 45, 66, 0.9)!important;
+  background: rgba(17, 45, 66, 0.8)!important;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 .card-body {
   padding: 1rem 0.7rem;
+  background: rgba(0, 0, 0, 0.7);
 }
 .card-contact {
   margin-left: -10rem;
   border-radius: 0;
   border: 1rem double;
+  padding: 1rem .5rem!important;
 }
 .card-contact h1 {
   color: white;
@@ -390,6 +395,11 @@ section {
 }
 .card-contact h5, .card-contact h5 a {
   color: white!important;
+  font-size: 12pt;
+}
+.card-contact h5 a:hover {
+  text-decoration: none;
+  color: darkgrey!important;
   font-size: 12pt;
 }
 .icon-part {
@@ -410,7 +420,7 @@ ul.contact_social {
   padding: 0;
   margin: 0 auto;
   height: 5rem;
-  line-height: 7rem;
+  line-height: 9rem;
 }
 ul.contact_social li {
   margin: 0 auto;
@@ -428,93 +438,85 @@ ul.contact_social li {
   border-top: none;
 }
 
-.btn-outline-dark {
+.btn-outline-light {
   width: 5rem;
   border-radius: 20px!important;
 }
 
 
+/*============= MEDIA QUERIES =============*/
 
-/*
-section {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  background: #112d42;
+/* Devices under 1199px (xl) */
+@media (max-width: 1199.98px) {
+
 }
-section::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 50%;
-  height: 100%;
-  background: #03a9f4;
+/* Devices under 992px (xl) */
+@media (max-width: 991.98px) {
+
 }
-section .my_container {
-  position: relative;
-  min-width: 1100px;
-  min-height: 550px;
-  display: flex;
-  z-index: 1000;
+/* Devices under 768px (md) */
+@media (max-width: 767.98px) {
+
 }
-section .my_container .contact_info {
-  position: absolute;
-  top: 40px;
-  width: 350px;
-  height: calc(100% - 80px);
-  background: #0a3959;    !*#e0a800*!
-  z-index: 1;
-  padding: 40px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2);
+/* Devices under 576px (sm) */
+@media (max-width: 575.98px) {
+  .main-contact-section {
+    padding: 1rem 0rem!important;
+  }
+  .main-contact-section .container {
+    padding: 0;
+  }
+  .card-body {
+    padding: 1rem 0!important;
+  }
+  .card-contact {
+    margin: 0 .5rem 1rem;
+    border-radius: 1rem;
+    border: .3rem solid;
+    padding: .4rem!important;
+  }
+  .card-contact h1 {
+    font-size: 20pt;
+    margin-bottom: 20px;
+  }
+  .card-contact h5, .card-contact h5 a {
+    font-size: .7rem;
+  }
+  .icon-part {
+    height: 1rem;
+    width: 1rem;
+    border: none;
+    font-size: .5rem;
+    margin-right: .2rem!important;
+    margin-left: 0!important;
+  }
+  ul.contact_social {
+    height: 4rem;
+    line-height: 7rem;
+  }
+  .contact_social .svg-inline--fa {
+    font-size: .6rem;
+    margin: 0 .7rem;
+    color: lightgrey!important;
+  }
+  #contact_form input::placeholder, textarea::placeholder {
+    font-size: .7rem;
+  }
+  #contact_form input {
+    border-top: none;
+    height: 2rem;
+  }
+  #contact_form textarea {
+    border-top: none;
+    height: 5rem;
+  }
+  .send {
+    float: right!important;
+  }
+  .btn-outline-light {
+    font-size: .9rem;
+    padding: 0 .1rem;
+    width: 3rem;
+    border-radius: .5rem!important;
+  }
 }
-section .my_container .contact_info h2 {
-  color: white;
-  font-size: 24px;
-  font-weight: 500;
-}
-section .my_container .contact_info .info {
-  position: relative;
-  margin: 20px 0;
-}
-section .my_container .contact_info .info li {
-  position: relative;
-  list-style: none;
-  display: flex;
-  margin: 20px 0;
-  cursor: pointer;
-  align-items: flex-start;
-}
-section .my_container .contact_info .info li span:nth-child(1) {
-  width: 30px;
-  min-width: 30px;
-}
-section .my_container .contact_info .info li span:nth-child(1) i {
-  max-width: 100%;
-  filter: invert(1);
-  opacity: 0.5;
-}
-section .my_container .contact_info .info li span:nth-child(2),
-section .my_container .contact_info .info li span:nth-child(3) {
-  color: white;
-  margin-left: 10px;
-  font-weight: 300;
-  opacity: 0.5;
-}
-section .my_container .contact_info .info li:hover span:nth-child(1) i,
-section .my_container .contact_info .info li:hover span:nth-child(2),
-section .my_container .contact_info .info li:hover span:nth-child(3) {
-  opacity: 1;
-}
-section .my_container .contact_info .contact_social {
-  position: relative;
-  display: flex;
-}
-section .my_container .contact_info .contact_social li {
-  list-style-type: none;
-}*/
