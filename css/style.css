@@ -464,7 +464,7 @@ ul.contact_social li {
     padding: 1rem 0rem!important;
   }
   .main-contact-section .container {
-    padding: 0 0 1rem;
+    padding: 1rem 0;
   }
   .card-body {
     padding: 1rem 0!important;
@@ -480,7 +480,7 @@ ul.contact_social li {
     margin-bottom: 20px;
   }
   .card-contact h5, .card-contact h5 a {
-    font-size: .9rem;
+    font-size: .8rem;
   }
   .icon-part {
     height: 1rem;
@@ -495,7 +495,7 @@ ul.contact_social li {
     line-height: 7rem;
   }
   .contact_social .svg-inline--fa {
-    font-size: 1rem;
+    font-size: 1.5rem;
     margin: 0 .7rem;
     color: lightgrey!important;
   }
