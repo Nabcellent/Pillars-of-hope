@@ -40,7 +40,7 @@
 
 <!-- Start Socket -->
 
-<div class="socket text-light text-center py-4">
+<div class="socket text-light text-center py-1">
     <p>&copy; 2020 Pillars Of Hope Children's Home | All rights Reserved.</p>
 </div>
 <!-- End Socket -->
