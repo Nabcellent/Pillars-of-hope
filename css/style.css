@@ -240,6 +240,13 @@ footer p {
     font-size: 1.4rem;
     margin: 0 .5rem;
   }
+  footer hr {
+    margin: .4rem;
+  }
+  footer p {
+    font-size: 10pt;
+    margin: 0 0 .7rem;
+  }
 
   /*  About Us  */
   .about_us_display_4 {
