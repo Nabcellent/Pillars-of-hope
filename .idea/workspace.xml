@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/uploads/CSRF Protection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/uploads/cool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/uploads/fbconver.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/uploads/myPic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/cors/jquery.postmessage-transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/cors/jquery.xdr-transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-angular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-process.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.iframe-transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gallery js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/jquery.ui.widget.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial-36.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +59,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -62,7 +85,7 @@
       <workItem from="1607706369385" duration="47000" />
       <workItem from="1607706444948" duration="12000" />
       <workItem from="1607978701202" duration="31495000" />
-      <workItem from="1608110423567" duration="9047000" />
+      <workItem from="1608110423567" duration="10667000" />
     </task>
     <task id="LOCAL-00001" summary="Added composer.json">
       <created>1607653705196</created>
@@ -232,13 +255,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608118769225</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="footer.php">
+      <created>1608120228604</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1608120228604</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added composer.json" />
     <MESSAGE value="Added more paragraphs to main page heading" />
     <MESSAGE value="Added more paragraphs to main page heading&#10;Completed full width of first Page" />
