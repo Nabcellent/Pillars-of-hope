@@ -35,7 +35,7 @@
                     <li class="nav-item"><a href="" class="nav-link">Gallery</a></li>
                     <li class="nav-item"><a href="../about_us.php" class="nav-link">About Us</a></li>
                     <li class="nav-item"><a href="" class="nav-link">Services</a></li>
-                    <li class="nav-item"><a href="" class="nav-link">Contact</a></li>
+                    <li class="nav-item"><a href="../contact_us.php" class="nav-link">Contact</a></li>
                 </ul>
             </div>
         </div>

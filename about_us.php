@@ -16,11 +16,15 @@ require_once "templates/header.php";
             </div>
         </div>
     </div>
+    <!--    End of Top image    -->
+
+    </div>
+    <!-- End Navigation Sticky ID Section -->
 
     <!-- Start Social Jumbotron -->
 
     <div class="jumbotron sticky-top">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row justify-content-center text-center">
                 <div class="col-sm-6 col-md-7 col-lg-8 col-xl-10 pt-1">
                     <h1 class="display-4 text-center about_us_display_4">PILLARS OF HOPE CHILDREN'S HOME</h1>
@@ -123,9 +127,6 @@ require_once "templates/header.php";
 
     <div class="border-top border-dark w-100 mx-auto my-3"></div>
 
-
-
-<div style="height: 100vh;"></div>
 
 <?php
 require_once "templates/footer.php";
