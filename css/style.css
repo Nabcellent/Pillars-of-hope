@@ -464,7 +464,7 @@ ul.contact_social li {
     padding: 1rem 0rem!important;
   }
   .main-contact-section .container {
-    padding: 0;
+    padding: 0 0 1rem;
   }
   .card-body {
     padding: 1rem 0!important;
