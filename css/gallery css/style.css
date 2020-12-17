@@ -4,6 +4,7 @@ body {
   overflow-x: hidden;
   font-family: 'Varela Round', sans-serif;
   color: #505962;
+  width:100%;
 }
 
 .offset:before {
@@ -43,7 +44,8 @@ body {
   height: 100vh;
 }
 .carousel-caption {
-  width: 100%;
+  width: 75%;
+  margin: auto;
   right: 0;
   left: 0;
   position: absolute;
