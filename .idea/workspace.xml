@@ -2,30 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/uploads/CSRF Protection.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/uploads/cool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/uploads/fbconver.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/uploads/myPic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/cors/jquery.postmessage-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/cors/jquery.xdr-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-angular.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-audio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-jquery-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-process.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-video.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.fileupload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/jquery.iframe-transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gallery js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/jquery.ui.widget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/db_config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/gallery css/fixed.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/gallery css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/computers-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/computers-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/computers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nuno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/team1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/team2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insert/image_ins.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/cors/jquery.postmessage-transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/cors/jquery.xdr-transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/jquery.fileupload-audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/jquery.fileupload-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/jquery.fileupload-process.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/jquery.fileupload-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/jquery.fileupload-validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/jquery.fileupload-video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/jquery.fileupload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/jquery.iframe-transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_file_uploader/vendor/jquery.ui.widget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_us.php" beforeDir="false" afterPath="$PROJECT_DIR$/about_us.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_us.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact_us.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/uploads/CSRF Protection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/uploads/cool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/uploads/fbconver.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/uploads/myPic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cors/jquery.postmessage-transport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cors/jquery.xdr-transport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-angular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-audio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-process.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/jquery.fileupload-video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/jquery.fileupload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/jquery.iframe-transport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/my_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/my_JavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/jquery.ui.widget.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial-36.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +109,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Elections" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,7 +135,8 @@
       <workItem from="1607706369385" duration="47000" />
       <workItem from="1607706444948" duration="12000" />
       <workItem from="1607978701202" duration="31495000" />
-      <workItem from="1608110423567" duration="10667000" />
+      <workItem from="1608110423567" duration="10760000" />
+      <workItem from="1608143827462" duration="49338000" />
     </task>
     <task id="LOCAL-00001" summary="Added composer.json">
       <created>1607653705196</created>
@@ -262,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608120228604</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="gallery.php">
+      <created>1608131667544</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1608131667544</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +338,8 @@
     <MESSAGE value="nav" />
     <MESSAGE value="contact" />
     <MESSAGE value="footer.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="footer.php" />
+    <MESSAGE value="gallery.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="gallery.php" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

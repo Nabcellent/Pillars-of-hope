@@ -554,3 +554,75 @@ ul.contact_social li {
     border-radius: .5rem!important;
   }
 }
+
+
+
+/*////////////////////////////////////////////////////  GALLERY PAGE  ////////////////////////////////////////////////*/
+
+
+#drop_zone {
+  width: 70%;
+  padding: 2rem 4rem;
+  border: .5rem double #0056B3;
+}
+#files {
+  padding: 1.5rem;
+  margin: .5rem;
+  border: .1rem dashed #0056B3;
+  display: none;
+}
+#error {
+  color: darkred;
+}
+#uploaded_files h1, #uploaded_admin_imgs h1 {
+  font-weight: 800;
+}
+#uploaded_files .row, #uploaded_admin_imgs .row {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+#uploaded_files .image_column, #uploaded_admin_imgs .image_column {
+  flex: 33.3%;
+  width: auto;
+  overflow: hidden;
+  padding: 0 .3rem;
+  height: 100%;
+}
+#uploaded_files .image_column img, #uploaded_admin_imgs .image_column img {
+  width: 100%;
+  height: 100%;
+  margin-top: 2%;
+  cursor: pointer;
+  filter: grayscale(.7) brightness(.5);
+  border-radius: 1rem;
+  transition: .3s linear;
+}
+#uploaded_files .row .image_column img:hover, #uploaded_admin_imgs .row .image_column img:hover {
+  filter: grayscale(0) brightness(1);
+}
+
+/*=======  RESPONSIVENESS  =======*/
+/* Devices under 1199px (xl) */
+@media (max-width: 1199.98px) {
+
+}
+/* Devices under 992px (xl) */
+@media (max-width: 991.98px) {
+
+}
+/* Devices under 768px (md) */
+@media (max-width: 767.98px) {
+  #uploaded_files .row .image_column, #uploaded_admin_imgs .row .image_column {
+    flex: 50%;
+  }
+}
+/* Devices under 576px (sm) */
+@media (max-width: 575.98px) {
+  #uploaded_files .row .image_column, #uploaded_admin_imgs .row .image_column {
+    flex: 100%;
+  }
+  #uploaded_files .image_column img, #uploaded_admin_imgs .image_column img {
+    filter: grayscale(0) brightness(1);
+  }
+}
