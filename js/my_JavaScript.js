@@ -1,7 +1,7 @@
 $(document).ready(function() {
     var num_rows = $('#num_rows').val();
 
-    get_images(0, '<?=$num_rows?>');
+    get_images(0, num_rows);
 
     $(function() {
         var files = $('#files');
@@ -58,8 +58,8 @@ $(document).ready(function() {
             },
             success: function(response) {
                 for(var i = 0; i < response.images.length; i++) {
-                    add_imgs("../img/uploads/" + response.images[i].path);
-                    add_admin_imgs("../img/uploads/" + response.images[i].path, response.images[i].image_id);
+                    add_imgs("../img/uploads/" + response.images[i].path, response.images[i].image_id);
+                    /*add_admin_imgs("../img/uploads/" + response.images[i].path, response.images[i].image_id);*/
                 }
 
                 get_images((start + 8), max);
@@ -68,16 +68,16 @@ $(document).ready(function() {
     }
 
     function add_imgs(path) {
-        $('#uploaded_files').find('.row').find('.image_column:last').append('<img class=".img_row" src="'+path+'" alt="uploaded image">');
+        $('#gallery').find('.no-padding').find('.gallery:last').append('<a href="'+path+'" target="_blank"><img class="" src="'+path+'" alt="uploaded image"></a>');
 
-        var image_count = $('#uploaded_files').find('.row').find('.image_column:last').children().length;
+        var image_count = $('#gallery').find('.no-padding').find('.gallery:last').children().length;
 
         if(image_count === 3) {
-            $('#uploaded_files').find('.image_row').append('<div class="image_column"></div>');
+            $('#gallery').find('.no-padding').append('<div class="gallery"></div>');
         }
     }
 
-    function add_admin_imgs(path, image_id) {
+    /*function add_admin_imgs(path, image_id) {
         $('#uploaded_admin_imgs').find('.row').find('.image_column:last').append('<img class=".img_row" id="img_'+image_id+'" onclick="del_image('+image_id+')" src="'+path+'" alt="uploaded image">');
 
         var image_count = $('#uploaded_admin_imgs').find('.row').find('.image_column:last').children().length;
@@ -85,7 +85,7 @@ $(document).ready(function() {
         if(image_count === 3) {
             $('#uploaded_admin_imgs').find('.image_row').append('<div class="image_column"></div>');
         }
-    }
+    }*/
 })
 
 function del_image(image_id) {

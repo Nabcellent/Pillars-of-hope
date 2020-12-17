@@ -119,20 +119,45 @@ h3.heading {
   margin: 0 auto 2rem;
 }
 
-/*=======  Portfolio  =======*/
-.portfolio {
+/*=======  gallery  =======*/
+
+.add_files {
+  padding: 1.5rem;
+  margin: .5rem;
+  border: .1rem dashed #0056B3;
+  /*display: none;*/
+}
+#error {
+  color: darkred;
+}
+
+.no-padding {
+  display: flex!important;
+  flex-wrap: wrap!important;
+  width: 100% !important;
+}
+.gallery {
+  flex: 33.3%;
+  width: auto;
   overflow: hidden;
+  padding: 0 .3rem;
+  height: 100%;
 }
-.portfolio img {
-  max-width: 100%;
-  transition: transform .5s ease;
+.gallery img {
+  width: 100%;
+  height: 100%;
+  margin-top: 2%;
+  cursor: pointer;
+  filter: grayscale(.7) brightness(.5);
+  border-radius: 1rem;
+  transition: .3s linear;
 }
-.row.no-padding [class*=col-] {
+/*.row.no-padding [class*=col-] {
   padding: 0;
-}
-.portfolio img:hover {
-  transform: scale(1.1);
-  cursor: zoom-in;
+  height: auto!important;
+}*/
+.gallery img:hover {
+  filter: grayscale(0) brightness(1);
 }
 
 
@@ -169,6 +194,42 @@ hr.socket {
   width: 100%;
 }
 
+
+/*=======  Media queries  =======*/
+@media(max-width: 767px) {
+  .no-padding .gallery {
+    flex: 50%;
+  }
+
+  .carousel-caption h1 {
+    font-size: 2.3rem;
+    letter-spacing: .15rem;
+    padding-bottom: .5rem;
+  }
+  .carousel-caption h3 {
+    font-size: 1.2rem;
+    padding-bottom: .8rem;
+  }
+  .btn-lg {
+    font-size: 1rem;
+  }
+
+  .narrow h1 {
+    font-size: 1.5rem;
+  }
+  p.lead {
+    font-size: .9rem;
+  }
+}
+/* Devices under 576px (sm) */
+@media (max-width: 575.98px) {
+  .no-padding .gallery {
+    flex: 100%;
+  }
+  .gallery img {
+    filter: grayscale(0) brightness(1);
+  }
+}
 
 
 /*============ BOOTSTRAP BREAK POINTS:

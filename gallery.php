@@ -9,7 +9,7 @@
 
     <!-- Style CSS -->
     <link rel="stylesheet" href="css/gallery%20css/style.css">
-    <link rel="stylesheet" href="css/gallery%20css/style.css">
+    <link rel="stylesheet" href="css/gallery%20css/fixed.css">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
@@ -31,9 +31,9 @@
 
         <div class="collapse navbar-collapse" id="navbar_responsive">
             <ul class="navbar-nav ml-auto">
-                <li class="li nav-item"><a href="#home" class="nav-link">Home</a></li>
+                <li class="li nav-item"><a href="index.php" class="nav-link">Home</a></li>
                 <li class="li nav-item"><a href="#course" class="nav-link">Course</a></li>
-                <li class="li nav-item"><a href="#portfolio" class="nav-link">Portfolio</a></li>
+                <li class="li nav-item"><a href="#gallery" class="nav-link">gallery</a></li>
                 <li class="li nav-item"><a href="#team" class="nav-link">Team</a></li>
                 <li class="li nav-item"><a href="#contact" class="nav-link">Contact</a></li>
             </ul>
@@ -54,7 +54,7 @@
                 <div class="carousel-caption text-center">
                     <h1>Pillars of Hope</h1>
                     <h3>Animated Gallery</h3>
-                    <a href="#portfolio" class="btn btn-outline-light btn-lg">View Gallery</a>
+                    <a href="#gallery" class="btn btn-outline-light btn-lg">View Gallery</a>
                 </div>
             </div>
 
@@ -87,22 +87,25 @@
 <div id="course" class="offset">
 
     <div class="col-12 narrow text-center">
-        <h1>Nuno Theme Course</h1>
-        <p class="lead">Learn Bootstrap by creating an advanced Bootstrap 4 Responsive Website Template from scratch, with no steps skipped!</p>
-        <a class="btn btn-secondary btn-md" href="https://w3newbie.com/courses" target="_blank">Nuno Theme Course</a>
+        <div class="add_files">
+            <h1>Drag and Drop Files</h1>
+            <input type="file" id="file_upload" name="attachments[]" value="Browse" multiple>
+        </div>
+        <h1 id="error"></h1>
+        <h1 id="progress"></h1>
     </div>
 
 </div>
 <!-- End Course Section -->
 
 
-<!-- Start Portfolio Section -->
+<!-- Start gallery Section -->
 
-<div id="portfolio" class="offset">
+<div id="gallery" class="offset">
 
     <!-- Start Jumbotron -->
 
-    <div class="jumbotron container-fluid">
+    <div class="container-fluid">
 
         <div class="col-12 text-center">
             <h3 class="heading">Gallery</h3>
@@ -112,47 +115,8 @@
         <!-- Start row -->
 
         <div class="row no-padding">
-            <div class="col-sm-4">
-                <div class="portfolio">
-                    <a href="img/portfolio/1.png" target="_blank">
-                        <img src="img/portfolio/1.png" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="portfolio">
-                    <a href="img/portfolio/2.png" target="_blank">
-                        <img src="img/portfolio/2.png" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="portfolio">
-                    <a href="img/portfolio/3.png" target="_blank">
-                        <img src="img/portfolio/3.png" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="portfolio">
-                    <a href="img/portfolio/4.png" target="_blank">
-                        <img src="img/portfolio/4.png" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="portfolio">
-                    <a href="img/portfolio/5.png" target="_blank">
-                        <img src="img/portfolio/5.png" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="portfolio">
-                    <a href="img/portfolio/6.png" target="_blank">
-                        <img src="img/portfolio/6.png" alt="">
-                    </a>
-                </div>
+            <div class="gallery">
+
             </div>
         </div>
 
@@ -167,7 +131,7 @@
     <!-- End Jumbotron -->
 
 </div>
-<!-- End Portfolio Section -->
+<!-- End gallery Section -->
 
 
 <!-- Start Team Section -->
@@ -295,10 +259,10 @@ include "config/db_config.php";
 $sql = "SELECT gallery_id FROM gallery_tbl";
 $num_rows = mysqli_num_rows(mysqli_query($link, $sql));
 
-*/?>
+*/?><!--
 
-<!--<input type="number" id="num_rows" value="<?/*=$num_rows*/?>" hidden>
-
+<input type="number" id="num_rows" value="<?/*=$num_rows*/?>" hidden>-->
+<!--
 <div class="container-fluid" id="uploaded_files">
     <h1 class="text-center text-primary p-1">Our Image Gallery</h1>
     <h3 class="text-center text-success p-1">Responsive</h3>
