@@ -105,7 +105,7 @@
 
     <!-- Start Jumbotron -->
 
-    <div class="container-fluid">
+    <div class="jumbotron container-fluid">
 
         <div class="col-12 text-center">
             <h3 class="heading">Gallery</h3>
