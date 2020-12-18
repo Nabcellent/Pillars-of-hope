@@ -24,14 +24,16 @@
     <!-- Start of Navigation -->
 
     <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-        <a href="" class="navbar-brand"><img src="img/nuno.png" alt=""></a>
+        <a href="index.php" class="navbar-brand">
+            <img src="img/pillars%20logo.png" alt="logo" title="home logo">Pillars
+        </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar_responsive">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbar_responsive">
             <ul class="navbar-nav ml-auto">
-                <li class="li nav-item"><a href="index.php" class="nav-link">Home</a></li>
+                <li class="li nav-item"><a href="#" class="nav-link">Home</a></li>
                 <li class="li nav-item"><a href="#course" class="nav-link">Course</a></li>
                 <li class="li nav-item"><a href="#gallery" class="nav-link">gallery</a></li>
                 <li class="li nav-item"><a href="#team" class="nav-link">Team</a></li>
@@ -182,10 +184,12 @@
 
         <div class="row justify-content-center">
             <div class="col-md-5 text-center">
-                <img src="img/nuno.png" alt="">
+                <h1><img src="img/pillars%20logo.png" alt=""> Pillars</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, beatae culpa delectus dicta dolor doloremque dolores error harum in minima minus modi nam natus officia quo vitae voluptatibus. Facilis, nobis.</p>
                 <strong>Contact Info</strong>
-                <p>(888) 888-888<br>email@nuno.com</p>
+                <p class="mb-0">Office: <a href="tel:+254-714-140205">254-714-140205</a></p>
+                <p class="mb-0">Mobile: <a href="tel:+254-721-787167">254-721-787167</a></p>
+                <p class="mb-0"><a href="mailto:+me@myemail.com">pillarsofhopeathiriver2017@gmail.com</a></p>
 
                 <a href="#" target="_blank"><i class="fab fa-facebook-square"></i></a>
                 <a href="#" target="_blank"><i class="fab fa-twitter-square"></i></a>
