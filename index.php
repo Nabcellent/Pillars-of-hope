@@ -98,7 +98,13 @@ require_once "templates/header.php";
 
         <!-- Main Page Heading -->
 
-        <div class="col-11 mt-5 m-auto">
+        <div class="col-12 mt-5 m-auto main_page_content">
+            <div class="animation_area">
+                <ul class="box_area">
+                    <li></li><li></li><li></li>
+                    <li></li><li></li><li></li>
+                </ul>
+            </div>
             <h1 class="display-4 text-center pt-4">LISTED BELOW ARE OUR URGENT NEEDS</h1>
             <div class="border-top border-dark w-75 mx-auto my-5 my-sm-3"></div>
             <div class="row justify-content-center mb-4">
@@ -113,7 +119,7 @@ require_once "templates/header.php";
                         <li>Sugar</li><li>Maize flour</li>
                     </ol>
                 </div>
-                <div class="col-md-9 slick">
+                <div class="col-md-8 slick">
                     <div class="swiper-container bg-dark">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -122,6 +128,9 @@ require_once "templates/header.php";
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
                         </div>
+                        <!-- Add Arrows -->
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
                         <!-- Add Pagination -->
                         <div class="swiper-pagination"></div>
                     </div>
@@ -139,7 +148,7 @@ require_once "templates/header.php";
                 <div class="col-12 text-center">
                     <h3>3. SCHOOL ESSENTIALS</h3>
                 </div>
-                <div class="col-md-7">
+                <div class="col-md-6">
                     <img src="img/index/maipic.jpg" alt="Food" style="width:100%">
                 </div>
                 <div class="col-md-5">
@@ -184,7 +193,7 @@ require_once "templates/header.php";
                         <li>Nails etc</li>
                     </ol>
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-8">
                     <img src="img/index/maipic.jpg" alt="Food" style="width:50%">
                     <img src="img/index/maipic.jpg" alt="Food" style="width:45%">
                 </div>
@@ -194,7 +203,7 @@ require_once "templates/header.php";
                 <div class="col-12 text-center">
                     <h3>OTHER NEEDS</h3>
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-8">
                     <img src="img/index/maipic.jpg" alt="Food" style="width:50%">
                     <img src="img/index/maipic.jpg" alt="Food" style="width:45%">
                 </div>
