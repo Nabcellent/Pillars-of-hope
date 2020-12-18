@@ -86,14 +86,14 @@
 
 <div id="course" class="offset">
 
-    <div class="col-12 narrow text-center">
+    <!--<div class="col-12 narrow text-center">
         <div class="add_files">
             <h1>Drag and Drop Files</h1>
             <input type="file" id="file_upload" name="attachments[]" value="Browse" multiple>
         </div>
         <h1 id="error"></h1>
         <h1 id="progress"></h1>
-    </div>
+    </div>-->
 
 </div>
 <!-- End Course Section -->

@@ -76,16 +76,6 @@ $(document).ready(function() {
             $('#gallery').find('.no-padding').append('<div class="gallery"></div>');
         }
     }
-
-    /*function add_admin_imgs(path, image_id) {
-        $('#uploaded_admin_imgs').find('.row').find('.image_column:last').append('<img class=".img_row" id="img_'+image_id+'" onclick="del_image('+image_id+')" src="'+path+'" alt="uploaded image">');
-
-        var image_count = $('#uploaded_admin_imgs').find('.row').find('.image_column:last').children().length;
-
-        if(image_count === 3) {
-            $('#uploaded_admin_imgs').find('.image_row').append('<div class="image_column"></div>');
-        }
-    }*/
 })
 
 function del_image(image_id) {
