@@ -2,10 +2,10 @@ $(document).ready(function() {
     var swiper = new Swiper('.swiper-container', {
         effect: 'coverflow',
         loop: true,
+        zoom: true,
         mousewheel: true,
         grabCursor: true,
         centeredSlides: true,
-        slidesPerView: 2,
         autoplay: {
             delay: 2500,
             disableOnInteraction: false,
@@ -20,5 +20,19 @@ $(document).ready(function() {
         pagination: {
             el: '.swiper-pagination',
         },
+        breakpoints: {
+            640: {
+                slidesPerView: 1,
+                spaceBetween: 20,
+            },
+            768: {
+                slidesPerView: 2,
+                spaceBetween: 40,
+            },
+            1024: {
+                slidesPerView: 3,
+                spaceBetween: 50,
+            },
+        }
     });
 })
