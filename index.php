@@ -101,18 +101,111 @@ require_once "templates/header.php";
         <div class="col-11 mt-5 m-auto">
             <h1 class="display-4 text-center pt-4">LISTED BELOW ARE OUR URGENT NEEDS</h1>
             <div class="border-top border-dark w-75 mx-auto my-5 my-sm-3"></div>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et
-                ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis
-                reprehenderit.</p>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et
-                ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis
-                reprehenderit.</p>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et
-                ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis
-                reprehenderit.</p>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et
-                ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis
-                reprehenderit.</p>
+            <div class="row justify-content-center mb-4">
+                <div class="col-12 text-center">
+                    <h3>1. FOODS</h3>
+                </div>
+                <div class="col-md-3">
+                    <ol>
+                        <li>Maize</li><li>Wheat Flour</li>
+                        <li>Beans</li><li>Cooking Oil</li>
+                        <li>Rice</li><li>Green grams</li>
+                        <li>Sugar</li><li>Maize flour</li>
+                    </ol>
+                </div>
+                <div class="col-md-9 slick">
+                    <div class="swiper-container bg-dark">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                        </div>
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="row justify-content-center mb-4">
+                <div class="col-12 text-center">
+                    <h3>2. DETERGENTS</h3>
+                </div>
+            </div>
+
+            <div class="row justify-content-center mb-4">
+                <div class="col-12 text-center">
+                    <h3>3. SCHOOL ESSENTIALS</h3>
+                </div>
+                <div class="col-md-7">
+                    <img src="img/index/maipic.jpg" alt="Food" style="width:100%">
+                </div>
+                <div class="col-md-5">
+                    <ol>
+                        <li>School Fees(Both Primary and Secondary)</li>
+                        <li>School Uniform
+                            <ul>
+                                <li>Bags</li>
+                                <li>Shoes</li>
+                                <li>White shirts</li>
+                                <li>Grey Shorts</li>
+                                <li>Socks(white for girls and grey stripped with red for boys...)</li>
+                            </ul>
+                        </li>
+                        <li>Stationery
+                            <ul>
+                                <li>Exercise books (A4 & A5)</li><li>Plain Books</li>
+                                <li>Graph books</li><li>Basic writing stationary(Pens, Pencils, Rulers, etc...)</li>
+                                <li>Geometrical Sets</li><li>Scientific calculators</li>
+                                <li>Dictionaries (Both SWA and ENG)</li><li>Good News Bibles/Revised Standard Bibles</li>
+                                <li>Manilla Papers, Ream papers</li><li>Crayons</li>
+                            </ul>
+                        </li>
+                    </ol>
+                </div>
+            </div>
+
+            <div class="row justify-content-center mb-4">
+                <div class="col-12 text-center">
+                    <h3>2. WATER TANK</h3>
+                </div>
+            </div>
+
+            <div class="row justify-content-center mb-4">
+                <div class="col-12 text-center">
+                    <h3>CONSTRUCTION NEEDS</h3>
+                </div>
+                <div class="col-md-3">
+                    <ol>
+                        <li>Cement</li>
+                        <li>Mabati</li>
+                        <li>Nails etc</li>
+                    </ol>
+                </div>
+                <div class="col-md-9">
+                    <img src="img/index/maipic.jpg" alt="Food" style="width:50%">
+                    <img src="img/index/maipic.jpg" alt="Food" style="width:45%">
+                </div>
+            </div>
+
+            <div class="row justify-content-center mb-4">
+                <div class="col-12 text-center">
+                    <h3>OTHER NEEDS</h3>
+                </div>
+                <div class="col-md-9">
+                    <img src="img/index/maipic.jpg" alt="Food" style="width:50%">
+                    <img src="img/index/maipic.jpg" alt="Food" style="width:45%">
+                </div>
+                <div class="col-md-3">
+                    <ol>
+                        <li>Beddings</li><li>Sanitation Items</li>
+                        <li>Home Clothing</li><li>Utensils</li>
+                        <li>Tables</li><li>Chairs</li>
+                    </ol>
+                </div>
+            </div>
             <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et
                 ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis
                 reprehenderit.</p>

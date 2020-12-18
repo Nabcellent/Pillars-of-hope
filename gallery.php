@@ -34,7 +34,7 @@
         <div class="collapse navbar-collapse" id="navbar_responsive">
             <ul class="navbar-nav ml-auto">
                 <li class="li nav-item"><a href="#" class="nav-link">Home</a></li>
-                <li class="li nav-item"><a href="#course" class="nav-link">Course</a></li>
+                <li class="li nav-item"><a href="#add" class="nav-link">add</a></li>
                 <li class="li nav-item"><a href="#gallery" class="nav-link">gallery</a></li>
                 <li class="li nav-item"><a href="#team" class="nav-link">Team</a></li>
                 <li class="li nav-item"><a href="#contact" class="nav-link">Contact</a></li>
@@ -84,9 +84,9 @@
 <!-- End Home Section -->
 
 
-<!--- Start Course Section -->
+<!--- Start add Section -->
 
-<div id="course" class="offset">
+<div id="add" class="offset">
 
     <!--<div class="col-12 narrow text-center">
         <div class="add_files">
@@ -98,7 +98,7 @@
     </div>-->
 
 </div>
-<!-- End Course Section -->
+<!-- End add Section -->
 
 
 <!-- Start gallery Section -->
@@ -218,7 +218,7 @@
 <script src="js/all.min.js"></script>
 
 <!-- My Js -->
-<script src="js/my_JavaScript.js"></script>
+<script src="js/gallery.js"></script>
 
 <!--    Image upload js    -->
 <script src="js/jQuery_file_uploader/vendor/jquery.ui.widget.js" type="text/javascript"></script>

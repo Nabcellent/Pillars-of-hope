@@ -49,11 +49,18 @@
 
 <!-- jQuery -->
 <script src="../js/jQuery_3.5.1.js"></script>
+
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
 <!-- Font Awesome -->
 <script src="../js/all.min.js"></script>
+
+<!-- Swiper Slider JS-->
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
 <!-- My Js -->
+<script src="../js/gallery.js"></script>
 <script src="../js/my_JavaScript.js"></script>
 
 <!-- End Script Source Files -->

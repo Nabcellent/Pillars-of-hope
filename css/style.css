@@ -21,6 +21,7 @@ html, body {
 .navbar-brand img {
   height: 1.7rem;
   border-radius: 50%;
+  margin-right: .5rem;
 }
 .nav-item {
   padding: 0 10px;
@@ -50,7 +51,7 @@ html, body {
 /*============= CAROUSEL =============*/
 
 .carousel-inner {
-  max-height:32rem!important;
+  max-height:32.8rem!important;
 }
 
 
@@ -114,6 +115,22 @@ ul.social li {
 }
 .jumbotron .svg-inline--fa:hover {
   color: grey!important;
+}
+
+
+
+/*=======  SLIDERS  =======*/
+.swiper-container {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
 }
 
 
@@ -496,7 +513,7 @@ ul.contact_social li {
 /* Devices under 576px (sm) */
 @media (max-width: 575.98px) {
   .main-contact-section {
-    padding: 1rem 0rem!important;
+    padding: 1rem 0!important;
   }
   .main-contact-section .container {
     padding: 1rem 0;

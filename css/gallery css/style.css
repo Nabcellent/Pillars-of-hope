@@ -32,11 +32,12 @@ body {
   padding-right: .7rem;
 }
 .navbar-dark .navbar-nav .nav-link {
-  color: white;
+  color: darkgray;
 }
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover {
-  color: black;
+  color: white;
+  transform: scale(1.1);
 }
 
 
@@ -73,7 +74,7 @@ body {
 
 
 
-/*============= COURSE SECTION =============*/
+/*============= ADD SECTION =============*/
 
 .narrow {
   width: 75%;

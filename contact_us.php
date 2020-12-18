@@ -115,7 +115,7 @@ require_once "templates/header.php";
 <script src="js/all.min.js"></script>
 
 <!-- My Js -->
-<script src="js/my_JavaScript.js"></script>
+<script src="js/gallery.js"></script>
 
 <!-- End Script Source Files -->
 </body>
