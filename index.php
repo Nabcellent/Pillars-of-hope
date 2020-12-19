@@ -107,6 +107,8 @@ require_once "templates/header.php";
                     <li></li>
                     <li></li>
                     <li></li>
+                    <li></li>
+                    <li></li>
                 </ul>
             </div>
             <h1 class="display-4 text-center text-dark pt-4">LISTED BELOW ARE OUR URGENT NEEDS</h1>
