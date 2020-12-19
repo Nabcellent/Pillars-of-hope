@@ -120,6 +120,18 @@ ul.social li {
 
 
 /*=======  MAIN PAGE CONTENT  =======*/
+.main_page_content ol {
+  width: 100%;
+  margin: 0;
+  overflow: auto;
+}
+.main_page_content .collapsible {
+  cursor: pointer;
+}
+.main_page_content .collapsible a:hover {
+  color: rgb(0, 75, 255);
+  text-decoration: none;
+}
 .main_page_content .bg-dark {
   background: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(255, 255, 255, 0.6));
 }
@@ -200,36 +212,24 @@ ul.social li {
   }
 }
 
-.main_page_content ol {
-  width: 100%;
-  margin: 0;
-  overflow: auto;
-}
-.main_page_content .collapsible {
-  cursor: pointer;
-}
-.main_page_content .collapsible a:hover {
-  color: rgb(0, 75, 255);
-  text-decoration: none;
-}
-
-
-
 
 
 
 /*=======  SWIPERS  =======*/
+.swiper {
+  box-shadow: 0 .5rem .5rem rgba(0, 0, 0, .2);
+}
 .swiper-container {
   width: 100%;
   padding-top: .2rem;
   padding-bottom: .5rem;
 }
-
 .swiper-slide {
   background-position: center;
   background-size: cover;
   width: 300px;
   height: 300px;
+  box-shadow: 0 .3rem .3rem rgba(0, 0, 0, .2);
 }
 
 

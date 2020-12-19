@@ -120,13 +120,14 @@ require_once "templates/header.php";
                         <li>Sugar</li><li>Maize flour</li>
                     </ol>
                 </div>
-                <div class="col-md-9 align-self-center slick">
+                <div class="col-md-9 align-self-center swiper">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/maipic.jpg)"></div>
                         </div>
                         <!-- Add Arrows -->
                         <div class="swiper-button-next"></div>
@@ -142,7 +143,7 @@ require_once "templates/header.php";
                     <h3>2. SCHOOL ESSENTIALS</h3>
                     <div class="border-top border-light w-100 mx-auto my-3"></div>
                 </div>
-                <div class="col-md-9 align-self-center slick">
+                <div class="col-md-9 align-self-center swiper">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -196,7 +197,7 @@ require_once "templates/header.php";
                         <li>Nails etc</li>
                     </ol>
                 </div>
-                <div class="col-md-9 align-self-center slick">
+                <div class="col-md-9 align-self-center swiper">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -218,7 +219,7 @@ require_once "templates/header.php";
                     <h3>4. OTHER NEEDS</h3>
                     <div class="border-top border-light w-100 mx-auto my-3"></div>
                 </div>
-                <div class="col-md-9 align-self-center slick">
+                <div class="col-md-9 align-self-center swiper">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
