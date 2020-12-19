@@ -240,6 +240,20 @@ ul.social li {
   opacity: .10;
 }
 
+/*=======  Donate Now  =======*/
+
+.donate_now_card h4 {
+  font-size: 1.1rem;
+}
+.donate_now_card h5 {
+  margin-bottom: 0!important;
+  font-size: .9rem;
+  color: darkred;
+}
+.donate_now_card li {
+  font-size: .8rem;
+}
+
 
 /*===== FIXED BACKGROUND IMG =====*/
 

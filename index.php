@@ -101,8 +101,12 @@ require_once "templates/header.php";
         <div class="col-12 mt-5 m-auto text-white main_page_content">
             <div class="animation_area">
                 <ul class="box_area">
-                    <li></li><li></li><li></li>
-                    <li></li><li></li><li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
                 </ul>
             </div>
             <h1 class="display-4 text-center text-dark pt-4">LISTED BELOW ARE OUR URGENT NEEDS</h1>
@@ -114,10 +118,14 @@ require_once "templates/header.php";
                 </div>
                 <div class="col-md-3 align-self-center">
                     <ol>
-                        <li>Maize</li><li>Wheat Flour</li>
-                        <li>Beans</li><li>Cooking Oil</li>
-                        <li>Rice</li><li>Green grams</li>
-                        <li>Sugar</li><li>Maize flour</li>
+                        <li>Maize</li>
+                        <li>Wheat Flour</li>
+                        <li>Beans</li>
+                        <li>Cooking Oil</li>
+                        <li>Rice</li>
+                        <li>Green grams</li>
+                        <li>Sugar</li>
+                        <li>Maize flour</li>
                     </ol>
                 </div>
                 <div class="col-md-9 align-self-center swiper">
@@ -174,11 +182,16 @@ require_once "templates/header.php";
                         <li class="collapsible" data-toggle="collapse" data-target="#content1">Stationery - <a
                                     href="#">read more...</a>
                             <ul class="collapse1 text-white" id="content1">
-                                <li>Exercise books (A4 & A5)</li><li>Plain Books</li>
-                                <li>Graph books</li><li>Basic writing stationary(Pens, Pencils, Rulers, etc...)</li>
-                                <li>Geometrical Sets</li><li>Scientific calculators</li>
-                                <li>Dictionaries (Both SWA and ENG)</li><li>Good News Bibles/Revised Standard Bibles</li>
-                                <li>Manilla Papers, Ream papers</li><li>Crayons</li>
+                                <li>Exercise books (A4 & A5)</li>
+                                <li>Plain Books</li>
+                                <li>Graph books</li>
+                                <li>Basic writing stationary(Pens, Pencils, Rulers, etc...)</li>
+                                <li>Geometrical Sets</li>
+                                <li>Scientific calculators</li>
+                                <li>Dictionaries (Both SWA and ENG)</li>
+                                <li>Good News Bibles/Revised Standard Bibles</li>
+                                <li>Manilla Papers, Ream papers</li>
+                                <li>Crayons</li>
                             </ul>
                         </li>
                     </ol>
@@ -192,9 +205,14 @@ require_once "templates/header.php";
                 </div>
                 <div class="col-md-3 align-self-center">
                     <ol>
+                        <li>Nails</li>
+                        <li>Doors</li>
+                        <li>Windows</li>
                         <li>Cement</li>
-                        <li>Mabati</li>
-                        <li>Nails etc</li>
+                        <li>Iron Bars</li>
+                        <li>Building stones</li>
+                        <li>Roofing Iron sheets</li>
+                        <li>Construction Timber</li>
                     </ol>
                 </div>
                 <div class="col-md-9 align-self-center swiper">
@@ -236,9 +254,12 @@ require_once "templates/header.php";
                 </div>
                 <div class="col-md-3 align-self-center">
                     <ol>
-                        <li>Detergents and Sanitation Items</li><li>Utensils</li>
-                        <li>Home Clothing</li><li>Beddings</li>
-                        <li>Furniture</li><li>Water Tank</li>
+                        <li>Detergents and Sanitation Items</li>
+                        <li>Utensils</li>
+                        <li>Home Clothing</li>
+                        <li>Beddings</li>
+                        <li>Furniture</li>
+                        <li>Water Tank</li>
                     </ol>
                 </div>
             </div>
@@ -285,10 +306,32 @@ require_once "templates/header.php";
                     <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, alias
                         asperiores aut beatae cupiditate est et expedita explicabo illo iste labore nesciunt provident
                         quas quis repudiandae, suscipit tempore velit voluptatem!</p>
-                    <a href="https://changa.page.link/6ecJq" class="btn btn-outline-dark btn-lg" target="_blank">Donate
-                        Now</a>
+                    <a href="" class="btn btn-outline-dark btn-lg" data-toggle="collapse"
+                       data-target=".donate_now_card">Donate Now</a>
+
+                    <div class="card collapse donate_now_card" style="width: 20rem;">
+                        <div class="card-body bg-light">
+                            <h4 class="card-title">Support us through Account Name: <b>Pillars of Hope Children's Home</b></h4>
+                            <h5 class="card-subtitle mb-2">M-pesa</h5>
+                            <ul>
+                                <li>Pay bill number - <em>874580</em></li>
+                                <li>Account Number - <em>Your Name</em></li>
+                            </ul>
+                            <h5 class="card-subtitle mb-2">Co-op Bank</h5>
+                            <ul>
+                                <li>Account Number - <em>011285664984200</em></li>
+                            </ul>
+                            <h5 class="card-subtitle mb-2">NCBA Bank</h5>
+                            <ul>
+                                <li>Branch - <em>Kitengela</em></li>
+                                <li>Account Number - <em>1004101002</em></li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-lg-7"><img src="img/index/donate.jpg" alt="MY WEB LOGO" class="w-100"></div>
+                <div class="col-lg-7 align-self-center">
+                    <img src="img/index/donate.jpg" alt="MY WEB LOGO" class="w-100">
+                </div>
             </div>
         </div>
         <!-- End Two Column Section -->
@@ -376,13 +419,14 @@ require_once "templates/header.php";
     <div class="container my-5">
         <div class="row py-4">
             <div class="col-lg-4 mb-4 my-lg-auto">
-                <h1 class="font-weight-bold mb-3">OUR WEBSITE</h1>
+                <h1 class="font-weight-bold mb-3">HOME CONSTRUCTION</h1>
                 <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, alias asperiores
                     aut beatae cupiditate est et expedita explicabo illo iste labore nesciunt provident quas quis
                     repudiandae, suscipit tempore velit voluptatem!</p>
-                <a href="http://mywebsite.php" class="btn btn-outline-dark btn-lg" target="_blank">See My Website</a>
+                <a href="https://changa.page.link/6ecJq" class="btn btn-outline-dark btn-lg"
+                   target="_blank">Contribute</a>
             </div>
-            <div class="col-lg-8"><img src="img/responsive.png" alt="SOME LOGO" class="w-100"></div>
+            <div class="col-lg-8"><img src="img/index/project_house/house1.jpg" alt="SOME LOGO" class="w-100"></div>
         </div>
     </div>
     <!-- End Two Column Section -->
