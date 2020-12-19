@@ -111,7 +111,7 @@ require_once "templates/header.php";
                 <div class="col-12 text-center">
                     <h3>1. FOODS</h3>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 align-self-center">
                     <ol>
                         <li>Maize</li><li>Wheat Flour</li>
                         <li>Beans</li><li>Cooking Oil</li>
@@ -119,7 +119,7 @@ require_once "templates/header.php";
                         <li>Sugar</li><li>Maize flour</li>
                     </ol>
                 </div>
-                <div class="col-md-9 slick">
+                <div class="col-md-9 align-self-center slick">
                     <div class="swiper-container bg-dark">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -146,7 +146,7 @@ require_once "templates/header.php";
                 <div class="col-12 text-center">
                     <h3>3. SCHOOL ESSENTIALS</h3>
                 </div>
-                <div class="col-md-9 slick">
+                <div class="col-md-9 align-self-center slick">
                     <div class="swiper-container bg-dark">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -161,8 +161,8 @@ require_once "templates/header.php";
                         <div class="swiper-pagination"></div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <ol>
+                <div class="col-md-3 align-self-center">
+                    <ol style="overflow: auto">
                         <li>School Fees(Both Primary and Secondary)</li>
                         <li class="collapsible" data-toggle="collapse" data-target="#content">School Uniform
                             <ul class="collapse text-white" id="content">
@@ -196,14 +196,14 @@ require_once "templates/header.php";
                 <div class="col-12 text-center">
                     <h3>3. CONSTRUCTION NEEDS</h3>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 align-self-center">
                     <ol>
                         <li>Cement</li>
                         <li>Mabati</li>
                         <li>Nails etc</li>
                     </ol>
                 </div>
-                <div class="col-md-9 slick">
+                <div class="col-md-9 align-self-center slick">
                     <div class="swiper-container bg-dark">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -224,7 +224,7 @@ require_once "templates/header.php";
                 <div class="col-12 text-center">
                     <h3>OTHER NEEDS</h3>
                 </div>
-                <div class="col-md-9 slick">
+                <div class="col-md-9 align-self-center slick">
                     <div class="swiper-container bg-dark">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -239,7 +239,7 @@ require_once "templates/header.php";
                         <div class="swiper-pagination"></div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 align-self-center">
                     <ol>
                         <li>Beddings</li><li>Sanitation Items</li>
                         <li>Home Clothing</li><li>Utensils</li>
