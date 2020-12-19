@@ -11,25 +11,25 @@
                 <hr class="bg-light mb-0">
                 <h5>Contact Info</h5>
                 <hr class="bg-light mt-0">
-                <p>Office: <a href="tel:+254-714-140205">254-714-140205</a></p>
-                <p>Mobile: <a href="tel:+254-721-787167">254-721-787167</a></p>
-                <p><a href="mailto:+me@myemail.com">pillarsofhopeathiriver2017@gmail.com</a></p>
-                <p>Athi River, Mavoko</p>
+                <p class="mb-0">Office: <a href="tel:+254-714-140205">254-714-140205</a></p>
+                <p class="mb-0">Mobile: <a href="tel:+254-721-787167">254-721-787167</a></p>
+                <p class="mb-0"><a href="mailto:+me@myemail.com">pillarsofhopeathiriver2017@gmail.com</a></p>
+                <p class="mb-0">Athi River, Mavoko</p>
                 <p>Machakos, Kenya</p>
             </div>
             <div class="col-md-4">
                 <hr class="bg-light mb-0">
                 <h5>Important links</h5>
                 <hr class="bg-light mt-0">
-                <p><a href="https://changa.page.link/6ecJq">M-Changa Land Fundraiser</a></p>
+                <p class="mb-0"><a href="https://changa.page.link/6ecJq">M-Changa Land Fundraiser</a></p>
             </div>
             <div class="col-md-4">
                 <hr class="bg-light mb-0">
                 <h5>Support Us</h5>
                 <hr class="bg-light mt-0">
-                <p>Account Name: Pillars of Hope Children's Home</p>
-                <p>Mpesa Pay bill No: 874580 - (Acc No.: Your Name)</p>
-                <p>Co-op Bank: Acc No: 01128564984200</p>
+                <p class="mb-0">Account Name: Pillars of Hope Children's Home</p>
+                <p class="mb-0">Mpesa Pay bill No: 874580 - (Acc No.: Your Name)</p>
+                <p class="mb-0">Co-op Bank: Acc No: 01128564984200</p>
                 <p>NCBA Bank Kintengela Branch (Acc No.: 1004101002</p>
             </div>
         </div>

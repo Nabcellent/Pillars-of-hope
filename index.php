@@ -160,7 +160,8 @@ require_once "templates/header.php";
                 <div class="col-md-3 align-self-center">
                     <ol style="overflow: auto">
                         <li>School Fees(Both Primary and Secondary)</li>
-                        <li class="collapsible" data-toggle="collapse" data-target="#content">School Uniform
+                        <li class="collapsible" data-toggle="collapse" data-target="#content">School Uniform - <a
+                                    href="#">read more...</a>
                             <ul class="collapse text-white" id="content">
                                 <li>Bags</li>
                                 <li>Shoes</li>
@@ -169,7 +170,8 @@ require_once "templates/header.php";
                                 <li>Socks(white for girls and grey stripped with red for boys...)</li>
                             </ul>
                         </li>
-                        <li class="collapsible" data-toggle="collapse" data-target="#content1">Stationery
+                        <li class="collapsible" data-toggle="collapse" data-target="#content1">Stationery - <a
+                                    href="#">read more...</a>
                             <ul class="collapse1 text-white" id="content1">
                                 <li>Exercise books (A4 & A5)</li><li>Plain Books</li>
                                 <li>Graph books</li><li>Basic writing stationary(Pens, Pencils, Rulers, etc...)</li>

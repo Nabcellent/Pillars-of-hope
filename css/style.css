@@ -208,8 +208,9 @@ ul.social li {
 .main_page_content .collapsible {
   cursor: pointer;
 }
-.main_page_content .collapsible:hover {
+.main_page_content .collapsible a:hover {
   color: rgb(0, 75, 255);
+  text-decoration: none;
 }
 
 
