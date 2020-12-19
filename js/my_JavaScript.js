@@ -6,7 +6,7 @@ $(document).ready(function() {
         grabCursor: true,
         centeredSlides: true,
         autoplay: {
-            delay: 2500,
+            delay: 3000,
             disableOnInteraction: false,
         },
         navigation: {
@@ -34,7 +34,7 @@ $(document).ready(function() {
                 spaceBetween: 40,
             },
             1024: {
-                slidesPerView: 3,
+                slidesPerView: 2,
                 spaceBetween: 50,
             },
         }

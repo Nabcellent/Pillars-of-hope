@@ -98,7 +98,7 @@ require_once "templates/header.php";
 
         <!-- Main Page Heading -->
 
-        <div class="col-12 mt-5 m-auto main_page_content">
+        <div class="col-12 mt-5 m-auto text-white main_page_content">
             <div class="animation_area">
                 <ul class="box_area">
                     <li></li><li></li><li></li>
@@ -119,10 +119,9 @@ require_once "templates/header.php";
                         <li>Sugar</li><li>Maize flour</li>
                     </ol>
                 </div>
-                <div class="col-md-8 slick">
+                <div class="col-md-9 slick">
                     <div class="swiper-container bg-dark">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -134,7 +133,6 @@ require_once "templates/header.php";
                         <!-- Add Pagination -->
                         <div class="swiper-pagination"></div>
                     </div>
-
                 </div>
             </div>
 
@@ -148,14 +146,26 @@ require_once "templates/header.php";
                 <div class="col-12 text-center">
                     <h3>3. SCHOOL ESSENTIALS</h3>
                 </div>
-                <div class="col-md-6">
-                    <img src="img/index/maipic.jpg" alt="Food" style="width:100%">
+                <div class="col-md-9 slick">
+                    <div class="swiper-container bg-dark">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                        </div>
+                        <!-- Add Arrows -->
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                    </div>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-3">
                     <ol>
                         <li>School Fees(Both Primary and Secondary)</li>
-                        <li>School Uniform
-                            <ul>
+                        <li class="collapsible" data-toggle="collapse" data-target="#content">School Uniform
+                            <ul class="collapse text-white" id="content">
                                 <li>Bags</li>
                                 <li>Shoes</li>
                                 <li>White shirts</li>
@@ -163,8 +173,8 @@ require_once "templates/header.php";
                                 <li>Socks(white for girls and grey stripped with red for boys...)</li>
                             </ul>
                         </li>
-                        <li>Stationery
-                            <ul>
+                        <li class="collapsible" data-toggle="collapse" data-target="#content1">Stationery
+                            <ul class="collapse1 text-white" id="content1">
                                 <li>Exercise books (A4 & A5)</li><li>Plain Books</li>
                                 <li>Graph books</li><li>Basic writing stationary(Pens, Pencils, Rulers, etc...)</li>
                                 <li>Geometrical Sets</li><li>Scientific calculators</li>
@@ -184,7 +194,7 @@ require_once "templates/header.php";
 
             <div class="row justify-content-center mb-4">
                 <div class="col-12 text-center">
-                    <h3>CONSTRUCTION NEEDS</h3>
+                    <h3>3. CONSTRUCTION NEEDS</h3>
                 </div>
                 <div class="col-md-3">
                     <ol>
@@ -193,19 +203,41 @@ require_once "templates/header.php";
                         <li>Nails etc</li>
                     </ol>
                 </div>
-                <div class="col-md-8">
-                    <img src="img/index/maipic.jpg" alt="Food" style="width:50%">
-                    <img src="img/index/maipic.jpg" alt="Food" style="width:45%">
+                <div class="col-md-9 slick">
+                    <div class="swiper-container bg-dark">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                        </div>
+                        <!-- Add Arrows -->
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                    </div>
                 </div>
             </div>
 
-            <div class="row justify-content-center mb-4">
+            <div class="row justify-content-center pb-4">
                 <div class="col-12 text-center">
                     <h3>OTHER NEEDS</h3>
                 </div>
-                <div class="col-md-8">
-                    <img src="img/index/maipic.jpg" alt="Food" style="width:50%">
-                    <img src="img/index/maipic.jpg" alt="Food" style="width:45%">
+                <div class="col-md-9 slick">
+                    <div class="swiper-container bg-dark">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                        </div>
+                        <!-- Add Arrows -->
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                    </div>
                 </div>
                 <div class="col-md-3">
                     <ol>
@@ -215,18 +247,6 @@ require_once "templates/header.php";
                     </ol>
                 </div>
             </div>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et
-                ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis
-                reprehenderit.</p>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et
-                ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis
-                reprehenderit.</p>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et
-                ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis
-                reprehenderit.</p>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet doloribus, dolorum ducimus et
-                ex in incidunt iusto maiores pariatur quae quas quidem totam ut veniam vitae. Debitis dignissimos nobis
-                reprehenderit.</p>
         </div>
 
         <!-- Three Column Section -->
