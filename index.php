@@ -74,7 +74,7 @@ require_once "templates/header.php";
             <div class="container">
                 <div class="row justify-content-center text-center">
                     <div class="d-none d-xl-block col-xl-6 pt-1">
-                        <h3>Connect with us on social media!</h3>
+                        <h3 class="text-white">Connect with us on social media!</h3>
                     </div>
                     <div class="col-sm-10 col-md-8 col-lg-7 col-xl-6 pt-1">
                         <ul class="social">
@@ -251,7 +251,6 @@ require_once "templates/header.php";
                     <i class="fas fa-home fa-stack-1x fa-inverse" style="color: #026db6;"></i>
                 </span>
                     <p class="lead">Home is where the heart is</p>
-                    <a href="" class="btn btn-outline-dark btn-md">Learn more...</a>
                 </div>
                 <div class="col-md-6 col-lg-4 py-3">
                 <span class="fa-stack fa-4x">
@@ -259,7 +258,6 @@ require_once "templates/header.php";
                     <i class="fas fa-hand-holding-heart fa-stack-1x fa-inverse" style="color: red;"></i>
                 </span>
                     <p class="lead">Give and you shall receive</p>
-                    <a href="" class="btn btn-outline-dark btn-md">Learn more...</a>
                 </div>
                 <div class="col-md-6 col-lg-4 py-3">
                 <span class="fa-stack fa-4x">
@@ -267,7 +265,6 @@ require_once "templates/header.php";
                     <i class="fas fa-dove fa-stack-1x fa-inverse"></i>
                 </span>
                     <p class="lead">There is peace even in the storm</p>
-                    <a href="" class="btn btn-outline-dark btn-md">Learn more...</a>
                 </div>
             </div>
         </div>
@@ -288,7 +285,7 @@ require_once "templates/header.php";
                     <a href="https://changa.page.link/6ecJq" class="btn btn-outline-dark btn-lg" target="_blank">Donate
                         Now</a>
                 </div>
-                <div class="col-lg-7"><img src="img/tablet.png" alt="MY WEB LOGO" class="w-100"></div>
+                <div class="col-lg-7"><img src="img/index/donate.jpg" alt="MY WEB LOGO" class="w-100"></div>
             </div>
         </div>
         <!-- End Two Column Section -->
@@ -309,7 +306,7 @@ require_once "templates/header.php";
 
     <div id="text-button-sticky">
 
-        <!-- Start Bundle Pack Jumbotron -->
+        <!-- Start Bundle Pack Jumbotron --
 
         <div class="jumbotron sticky-top" style="margin-bottom: 2px;">
             <div class="container">
@@ -329,7 +326,7 @@ require_once "templates/header.php";
         </div>
         <!-- End Bundle Pack Jumbotron -->
 
-        <!-- Three Column Section -->
+        <!-- Three Column Section --
 
         <div class="container">
             <div class="row justify-content-center my-5">
@@ -386,27 +383,6 @@ require_once "templates/header.php";
         </div>
     </div>
     <!-- End Two Column Section -->
-
-
-    <!-- Start Website Designs Jumbotron -->
-
-    <div class="jumbotron py-5 mb-0">
-        <div class="container">
-            <div class="row">
-
-                <div class="col-md-7 col-lg-8 col-xl-9 my-auto">
-                    <h4>Looking for quality, easy-to-use mobile-friendly website designs?</h4>
-                </div>
-
-                <div class="col-md-5 col-lg-4 col-xl-3 pt-4 pt-md-0">
-                    <a href="https://w3newbie.com" target="_blank" class="btn btn-primary btn-lg">Visit Us Today</a>
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <!-- End Website Designs Jumbotron -->
-
 
 <?php
 require_once "templates/footer.php";
