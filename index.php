@@ -80,13 +80,13 @@ require_once "templates/header.php";
                         <ul class="social">
                             <li><a href="" target="_blank" title="Twitter"><i class="fab fa-twitter"
                                                                               style="color: #00aced"></i></a></li>
-                            <li><a href="" target="_blank" title="Facebook"><i class="fab fa-facebook"
+                            <li><a href="https://www.facebook.com/pages/category/Nonprofit-Organization/Pillars-Of-Hope-Childrens-Home-Athi-River-185627088730609/" target="_blank" title="Facebook"><i class="fab fa-facebook"
                                                                                style="color: #3b5998"></i></a></li>
-                            <li><a href="" target="_blank" title="Instagram"><i class="fab fa-instagram"
+                            <li><a href="https://instagram.com/pillarsofhopeschildrenhome?igshid=zrm41xd9sj0a" target="_blank" title="Instagram"><i class="fab fa-instagram"
                                                                                 style="color: #3f729b"></i></a></li>
-                            <li><a href="" target="_blank" title="Youtube"><i class="fab fa-youtube"
+                            <li><a href="https://youtube.com/channel/UCzImEvkZIRuKmoDUXfSvogg" target="_blank" title="Youtube"><i class="fab fa-youtube"
                                                                               style="color: #c4302b"></i></a></li>
-                            <li><a href="" target="_blank" title="Gmail"><i class="fas fa-envelope"
+                            <li><a href="mailto:pillarsofhopeathiriver2017@gmail.com" target="_blank" title="Gmail"><i class="fas fa-envelope"
                                                                             style="color: #0e76a8"></i></a></li>
                         </ul>
                     </div>
@@ -133,11 +133,10 @@ require_once "templates/header.php";
                 <div class="col-md-9 align-self-center swiper">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide" style="background-image:url(img/index/swipers/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/swipers/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/swipers/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/swipers/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/swipers/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/food/1200x830.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/food/CLyVQ60UYAI87-1.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/food/grocery.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/food/maipic.jpg)"></div>
                         </div>
                         <!-- Add Arrows -->
                         <div class="swiper-button-next"></div>

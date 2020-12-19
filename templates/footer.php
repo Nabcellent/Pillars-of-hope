@@ -13,7 +13,7 @@
                 <hr class="bg-light mt-0">
                 <p class="mb-0">Office: <a href="tel:+254-714-140205">254-714-140205</a></p>
                 <p class="mb-0">Mobile: <a href="tel:+254-721-787167">254-721-787167</a></p>
-                <p class="mb-0"><a href="mailto:+me@myemail.com">pillarsofhopeathiriver2017@gmail.com</a></p>
+                <p class="mb-0"><a href="mailto:pillarsofhopeathiriver2017@gmail.com">pillarsofhopeathiriver2017@gmail.com</a></p>
                 <p class="mb-0">Athi River, Mavoko</p>
                 <p>Machakos, Kenya</p>
             </div>
