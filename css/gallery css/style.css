@@ -181,13 +181,13 @@ h3.heading {
 /*=======  Contact  =======*/
 
 footer {
-  background-color: #40474e;
+  background: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(140, 0, 0, 0.6))!important;
   color: white;
-  padding: 1rem 0 2rem;
+  padding: 0 0 .5rem;
   margin-top: 1rem;
 }
 footer img {
-  height: 2.5rem;
+  height: 2rem;
   border-radius: 50%;
   margin: 1.5rem 0;
 }
@@ -195,18 +195,18 @@ footer a {
   color: white;
 }
 footer a:hover {
-  color: grey;
+  color: darkgray;
   text-decoration: none;
 }
 footer svg.svg-inline--fa {
   font-size: 1.5rem;
-  margin: 1.2rem .5rem 0 0;
+  margin: 1.2rem 1rem 0 0;
 }
 footer svg.svg-inline--fa:hover {
-  color: #1EBBA3;
+  color: rgb(0, 75, 205);
 }
 hr.socket {
-  border-top: .2rem solid #1EBBA3;
+  border-top: .1rem solid rgb(0, 75, 105);
   width: 100%;
 }
 

@@ -126,7 +126,7 @@
 
         <div class="narrow text-center">
             <div class="col-12">
-                <p class="lead">Our Children</p>
+                <h1>⬆...Our Children...⬆</h1>
             </div>
         </div>
         <!-- End row -->
@@ -149,22 +149,13 @@
 
     <!-- Start of Row -->
 
-    <div class="row padding">
+    <div class="row padding justify-content-center">
 
-        <div class="col-md-6">
-            <div class="card text-center">
-                <img src="img/team/team1.png" alt="" class="card-img-top">
-                <div class="card-body">
-                    <h4>Jessica Miller</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis deserunt eveniet magnam non perspiciatis porro. Accusamus aliquam asperiores consequuntur culpa fugiat ipsum magnam? Atque debitis fugit officia sint soluta. Commodi.</p>
-                </div>
-            </div>
-        </div>
         <div class="col-md-6">
             <div class="card text-center">
                 <img src="img/team/team2.png" alt="" class="card-img-top">
                 <div class="card-body">
-                    <h4>Charles Davis</h4>
+                    <h4>Mr. Vitalis Nyambeka</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis deserunt eveniet magnam non perspiciatis porro. Accusamus aliquam asperiores consequuntur culpa fugiat ipsum magnam? Atque debitis fugit officia sint soluta. Commodi.</p>
                 </div>
             </div>
@@ -186,7 +177,7 @@
 
         <div class="row justify-content-center">
             <div class="col-md-5 text-center">
-                <h1><img src="img/pillars%20logo.png" alt=""> Pillars</h1>
+                <h4><img src="img/pillars%20logo.png" alt=""> Pillars</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, beatae culpa delectus dicta dolor doloremque dolores error harum in minima minus modi nam natus officia quo vitae voluptatibus. Facilis, nobis.</p>
                 <strong>Contact Info</strong>
                 <p class="mb-0">Office: <a href="tel:+254-714-140205">254-714-140205</a></p>

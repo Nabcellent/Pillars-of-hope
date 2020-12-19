@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/pillars_logo.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/gallery css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
@@ -75,7 +74,7 @@
       <workItem from="1608143827462" duration="62009000" />
       <workItem from="1608277185095" duration="9206000" />
       <workItem from="1608292267751" duration="1583000" />
-      <workItem from="1608305586493" duration="34117000" />
+      <workItem from="1608305586493" duration="35389000" />
     </task>
     <task id="LOCAL-00001" summary="Added composer.json">
       <created>1607653705196</created>
@@ -385,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608382843696</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="gallery.php">
+      <created>1608392144900</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1608392144900</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,11 +409,11 @@
     <MESSAGE value="nav" />
     <MESSAGE value="contact" />
     <MESSAGE value="footer.php" />
-    <MESSAGE value="gallery.php" />
     <MESSAGE value="sliders" />
     <MESSAGE value="footer" />
     <MESSAGE value="slider" />
-    <option name="LAST_COMMIT_MESSAGE" value="slider" />
+    <MESSAGE value="gallery.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="gallery.php" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
