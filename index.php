@@ -105,11 +105,12 @@ require_once "templates/header.php";
                     <li></li><li></li><li></li>
                 </ul>
             </div>
-            <h1 class="display-4 text-center pt-4">LISTED BELOW ARE OUR URGENT NEEDS</h1>
+            <h1 class="display-4 text-center text-dark pt-4">LISTED BELOW ARE OUR URGENT NEEDS</h1>
             <div class="border-top border-dark w-75 mx-auto my-5 my-sm-3"></div>
-            <div class="row justify-content-center mb-4">
+            <div class="row justify-content-center bg-dark mb-4">
                 <div class="col-12 text-center">
                     <h3>1. FOODS</h3>
+                    <div class="border-top border-light w-100 mx-auto my-3"></div>
                 </div>
                 <div class="col-md-3 align-self-center">
                     <ol>
@@ -120,7 +121,7 @@ require_once "templates/header.php";
                     </ol>
                 </div>
                 <div class="col-md-9 align-self-center slick">
-                    <div class="swiper-container bg-dark">
+                    <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -136,18 +137,13 @@ require_once "templates/header.php";
                 </div>
             </div>
 
-            <div class="row justify-content-center mb-4">
+            <div class="row justify-content-center bg-dark mb-4">
                 <div class="col-12 text-center">
-                    <h3>2. DETERGENTS</h3>
-                </div>
-            </div>
-
-            <div class="row justify-content-center mb-4">
-                <div class="col-12 text-center">
-                    <h3>3. SCHOOL ESSENTIALS</h3>
+                    <h3>2. SCHOOL ESSENTIALS</h3>
+                    <div class="border-top border-light w-100 mx-auto my-3"></div>
                 </div>
                 <div class="col-md-9 align-self-center slick">
-                    <div class="swiper-container bg-dark">
+                    <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -186,15 +182,10 @@ require_once "templates/header.php";
                 </div>
             </div>
 
-            <div class="row justify-content-center mb-4">
-                <div class="col-12 text-center">
-                    <h3>2. WATER TANK</h3>
-                </div>
-            </div>
-
-            <div class="row justify-content-center mb-4">
+            <div class="row justify-content-center bg-dark mb-4">
                 <div class="col-12 text-center">
                     <h3>3. CONSTRUCTION NEEDS</h3>
+                    <div class="border-top border-light w-100 mx-auto my-3"></div>
                 </div>
                 <div class="col-md-3 align-self-center">
                     <ol>
@@ -204,7 +195,7 @@ require_once "templates/header.php";
                     </ol>
                 </div>
                 <div class="col-md-9 align-self-center slick">
-                    <div class="swiper-container bg-dark">
+                    <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -220,12 +211,13 @@ require_once "templates/header.php";
                 </div>
             </div>
 
-            <div class="row justify-content-center pb-4">
+            <div class="row justify-content-center bg-dark">
                 <div class="col-12 text-center">
-                    <h3>OTHER NEEDS</h3>
+                    <h3>4. OTHER NEEDS</h3>
+                    <div class="border-top border-light w-100 mx-auto my-3"></div>
                 </div>
                 <div class="col-md-9 align-self-center slick">
-                    <div class="swiper-container bg-dark">
+                    <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
                             <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
@@ -241,9 +233,9 @@ require_once "templates/header.php";
                 </div>
                 <div class="col-md-3 align-self-center">
                     <ol>
-                        <li>Beddings</li><li>Sanitation Items</li>
-                        <li>Home Clothing</li><li>Utensils</li>
-                        <li>Tables</li><li>Chairs</li>
+                        <li>Detergents and Sanitation Items</li><li>Utensils</li>
+                        <li>Home Clothing</li><li>Beddings</li>
+                        <li>Furniture</li><li>Water Tank</li>
                     </ol>
                 </div>
             </div>

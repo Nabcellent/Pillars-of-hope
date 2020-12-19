@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/my_JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/my_JavaScript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <workItem from="1608143827462" duration="62009000" />
       <workItem from="1608277185095" duration="9206000" />
       <workItem from="1608292267751" duration="1583000" />
-      <workItem from="1608305586493" duration="21732000" />
+      <workItem from="1608305586493" duration="26936000" />
     </task>
     <task id="LOCAL-00001" summary="Added composer.json">
       <created>1607653705196</created>
@@ -342,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608341783928</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="sliders">
+      <created>1608373193101</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1608373193101</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

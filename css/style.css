@@ -120,8 +120,8 @@ ul.social li {
 
 
 /*=======  MAIN PAGE CONTENT  =======*/
-.main_page_content {
-  background: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(140, 0, 0, 0.6));
+.main_page_content .bg-dark {
+  background: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(255, 255, 255, 0.6));
 }
 .main_page_content .box_area {
   position: absolute;
@@ -217,11 +217,11 @@ ul.social li {
 
 
 
-/*=======  SLIDERS  =======*/
+/*=======  SWIPERS  =======*/
 .swiper-container {
   width: 100%;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: .2rem;
+  padding-bottom: .5rem;
 }
 
 .swiper-slide {
@@ -362,6 +362,20 @@ footer p {
   footer p {
     font-size: 10pt;
     margin: 0 0 .7rem;
+  }
+
+  .align-self-center {
+    padding: 0!important;
+  }
+  .swiper-container {
+    border-radius: 0;
+    padding: 0!important;
+  }
+  .swiper-pagination {
+    display: none;
+  }
+  .swiper-button-prev, .swiper-button-next {
+    display: none;
   }
 
   /*  About Us  */

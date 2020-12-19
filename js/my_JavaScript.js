@@ -2,7 +2,6 @@ $(document).ready(function() {
     var swiper = new Swiper('.swiper-container', {
         effect: 'coverflow',
         loop: true,
-        mousewheel: true,
         grabCursor: true,
         centeredSlides: true,
         autoplay: {
@@ -25,7 +24,7 @@ $(document).ready(function() {
             slideShadows: true,
         },
         breakpoints: {
-            640: {
+            576: {
                 slidesPerView: 1,
                 spaceBetween: 20,
             },
