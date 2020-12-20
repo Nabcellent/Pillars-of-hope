@@ -37,7 +37,7 @@
             <ul class="navbar-nav ml-auto">
                 <li class="li nav-item"><a href="#" class="nav-link">Home</a></li>
                 <li class="li nav-item"><a href="#add" class="nav-link">add</a></li>
-                <li class="li nav-item"><a href="#gallery" class="nav-link">gallery</a></li>
+                <li class="li nav-item"><a href="#gallery" class="nav-link">Photos</a></li>
                 <li class="li nav-item"><a href="#team" class="nav-link">Team</a></li>
                 <li class="li nav-item"><a href="#contact" class="nav-link">Contact</a></li>
             </ul>
@@ -111,7 +111,7 @@
 
     <div class="jumbotron container-fluid">
 
-        <div class="col-12 text-center">
+        <div class="col-12 text-center p-0">
             <h3 class="heading">Gallery</h3>
             <div class="heading-underline"></div>
         </div>

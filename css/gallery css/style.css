@@ -108,20 +108,20 @@ body {
 
 .jumbotron {
   border-radius: 0;
-  padding: 3rem 0 2rem;
+  padding: 2.5rem 0 2rem;
   margin-bottom: 0;
 }
 h3.heading {
   font-size: 1.9rem;
   font-weight: 700;
   text-transform: uppercase;
-  padding-bottom: 1.9rem;
+  padding-bottom: 1.2rem;
 }
 .heading-underline {
-  width: 3rem;
+  width: 5rem;
   height: .2rem;
   background-color: #1EBBA3;
-  margin: 0 auto 2rem;
+  margin: 0 auto 1.5rem;
 }
 
 /*=======  gallery  =======*/
