@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/index/project_house/plan/engineering_works.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/project_house/plan/external_works.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/project_house/plan/first_floor.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/project_house/plan/ground_floor.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/project_house/plan/main_works.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/project_house/plan/roof_top.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/project_house/plan/second_floor.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/project_house/plan/tender_cost_plan.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,14 +73,7 @@
       <workItem from="1608143827462" duration="62009000" />
       <workItem from="1608277185095" duration="9206000" />
       <workItem from="1608292267751" duration="1583000" />
-      <workItem from="1608305586493" duration="56517000" />
-    </task>
-    <task id="LOCAL-00005" summary="Modified home name underline for mobile">
-      <created>1607691497705</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1607691497705</updated>
+      <workItem from="1608305586493" duration="56591000" />
     </task>
     <task id="LOCAL-00006" summary="Modified home name underline for mobile">
       <created>1607692215553</created>
@@ -428,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608460416807</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="construction modal">
+      <created>1608465535975</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1608465536167</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,7 +442,8 @@
     <MESSAGE value="gallery.php" />
     <MESSAGE value="donate now" />
     <MESSAGE value="index" />
-    <option name="LAST_COMMIT_MESSAGE" value="index" />
+    <MESSAGE value="construction modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="construction modal" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
