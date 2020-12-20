@@ -423,14 +423,59 @@ require_once "templates/header.php";
 
     <div class="container my-5">
         <div class="row py-4">
-            <div class="col-lg-4 mb-4 my-lg-auto">
+            <div class="col-lg-5 mb-4 my-lg-auto">
                 <h1 class="font-weight-bold mb-3">HOME CONSTRUCTION</h1>
-                <p class="mb-4">In supporting Pillars Children's Home Construction, Please bank into any of the accounts
+                <p class="mb-0">In supporting Pillars Children's Home Construction, Please bank into any of the accounts
                     at the bottom right of this page and WhatsApp your name and the material contributed to the funds (Accounts) Manager.</p>
-                <a href="https://changa.page.link/6ecJq" class="btn btn-outline-dark btn-lg"
-                   target="_blank">Contribute</a>
+                <p>You can also contribute through <a href="https://changa.page.link/6ecJq">M-Changa</a></p>
+
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-outline-dark btn-lg" data-toggle="modal" data-target="#exampleModal">
+                    See Plan...
+                </button>
             </div>
-            <div class="col-lg-8"><img src="img/index/project_house/house1.jpg" alt="SOME LOGO" class="w-100"></div>
+            <div class="col-lg-7"><img src="img/index/project_house/house1.jpg" alt="SOME LOGO" class="w-100"></div>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="exampleModalLabel">COSTINGS AND DRAWINGS</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row justify-content-center">
+                        <div class="col-10">
+                            <h5>WORK COSTINGS</h5>
+                            <ol>
+                                <li><a href="img/index/project_house/plan/tender_cost_plan.pdf" target="_blank">Tender Cost Plan</a></li>
+                                <li><a href="img/index/project_house/plan/main_works.pdf" target="_blank">Main Works</a></li>
+                                <li><a href="img/index/project_house/plan/engineering_works.pdf" target="_blank">Engineering Works</a></li>
+                                <li><a href="img/index/project_house/plan/external_works.pdf" target="_blank">External Works</a></li>
+                            </ol>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-10">
+                            <h5>DRAWINGS</h5>
+                            <ol>
+                                <li><a href="img/index/project_house/plan/ground_floor.pdf" target="_blank">Ground Floor</a></li>
+                                <li><a href="img/index/project_house/plan/first_floor.pdf" target="_blank">First Floor</a></li>
+                                <li><a href="img/index/project_house/plan/second_floor.pdf" target="_blank">Second Floor</a></li>
+                                <li><a href="img/index/project_house/plan/roof_top.pdf" target="_blank">Roof Top</a></li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
         </div>
     </div>
     <!-- End Two Column Section -->

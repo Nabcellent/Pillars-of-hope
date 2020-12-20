@@ -282,6 +282,18 @@ ul.social li {
 }
 
 
+
+/*=======  MODAL  =======*/
+.modal a {
+  color: maroon;
+}
+.modal a:hover {
+  color: maroon;
+  text-decoration: none;
+}
+
+
+
 /*============= FOOTER =============*/
 
 .footer {
