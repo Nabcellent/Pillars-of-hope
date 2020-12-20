@@ -80,7 +80,7 @@ require_once "templates/header.php";
                         <ul class="social">
                             <li><a href="" target="_blank" title="Twitter"><i class="fab fa-twitter"
                                                                               style="color: #00aced"></i></a></li>
-                            <li><a href="https://www.facebook.com/pages/category/Nonprofit-Organization/Pillars-Of-Hope-Childrens-Home-Athi-River-185627088730609/" target="_blank" title="Facebook"><i class="fab fa-facebook"
+                            <li><a href="https://www.facebook.com/Pillars-Childrens-home-Daystar-Athi-River-1855146178052221/" target="_blank" title="Facebook"><i class="fab fa-facebook"
                                                                                style="color: #3b5998"></i></a></li>
                             <li><a href="https://instagram.com/pillarsofhopeschildrenhome?igshid=zrm41xd9sj0a" target="_blank" title="Instagram"><i class="fab fa-instagram"
                                                                                 style="color: #3f729b"></i></a></li>
