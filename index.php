@@ -78,7 +78,7 @@ require_once "templates/header.php";
                     </div>
                     <div class="col-sm-10 col-md-8 col-lg-7 col-xl-6 pt-1">
                         <ul class="social">
-                            <li><a href="" target="_blank" title="Twitter"><i class="fab fa-twitter"
+                            <li><a href="https://twitter.com/Pillarsofhope4?s=09" target="_blank" title="Twitter"><i class="fab fa-twitter"
                                                                               style="color: #00aced"></i></a></li>
                             <li><a href="https://www.facebook.com/Pillars-Childrens-home-Daystar-Athi-River-1855146178052221/" target="_blank" title="Facebook"><i class="fab fa-facebook"
                                                                                style="color: #3b5998"></i></a></li>
@@ -155,10 +155,13 @@ require_once "templates/header.php";
                 <div class="col-md-9 align-self-center swiper">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/stationery/photo-1456735190827-d1262f71b8a3.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/stationery/149-1493075_school-bag-png-picture-transparent-school-bag-png.png)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/stationery/depositphotos_6432327-stock-photo-stack-of-textbooks.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/stationery/e0b762a5-b85c-4ca3-a718-26c1acb584c2-large16x9_SchoolSupplies.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/stationery/GettyImages_599501326.0.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/stationery/office_school_stationery_01_hd_picture_166593.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/stationery/worldstationerydaye1429445978379.jpg)"></div>
                         </div>
                         <!-- Add Arrows -->
                         <div class="swiper-button-next"></div>
@@ -219,10 +222,11 @@ require_once "templates/header.php";
                 <div class="col-md-9 align-self-center swiper">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/construction/670a001d48c6f1b326890c9d1f43143f.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/construction/Building-Material-Must-for-any-Type-of-Construction.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/construction/edilizia-sx.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/construction/f0b1d01c62bed63ebf51f850e6316fba.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/construction/maxresdefault.jpg)"></div>
                         </div>
                         <!-- Add Arrows -->
                         <div class="swiper-button-next"></div>
@@ -241,10 +245,11 @@ require_once "templates/header.php";
                 <div class="col-md-9 align-self-center swiper">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/maipic.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/others/7DrQjq.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/others/835-8354239_water-tank-in-png.png)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/others/HTB1wkQiimfD8KJjSszhq6zIJFXaD.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/others/IMG_3269.jpg)"></div>
+                            <div class="swiper-slide" style="background-image:url(img/index/swipers/others/products_steve_silver_color_zappa_zp700t+8x500s-b0.jpg)"></div>
                         </div>
                         <!-- Add Arrows -->
                         <div class="swiper-button-next"></div>
@@ -409,7 +414,6 @@ require_once "templates/header.php";
         <!-- End Three Column Section -->
 
         <!-- border -->
-        <div class="border-top border-dark w-100 mx-auto my-3"></div>
 
     </div>
     <!-- End Text Button Sticky -->

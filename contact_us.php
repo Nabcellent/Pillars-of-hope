@@ -12,7 +12,7 @@ require_once "templates/header.php";
             <div class="col-md-10">
                 <div class="card card-body py-5 border-0 shadow">
                     <div class="row">
-                        <div class="col-sm-12 col-md-4">
+                        <div class="col-sm-12 col-md-12 col-lg-4">
                             <div class="card card-body card-contact bg-theme">
                                 <h1>Contact Us</h1>
                                 <div class="media mb-3 align-items-center">
@@ -48,17 +48,16 @@ require_once "templates/header.php";
                                     </div>
                                 </div>
                                 <ul class="contact_social">
-                                    <li><a href="" target="_blank" title="Twitter"><i class="fab fa-twitter"
-                                                                                      style="color: #00aced"></i></a></li>
-                                    <li><a href="" target="_blank" title="Facebook"><i class="fab fa-facebook"
-                                                                                       style="color: #3b5998"></i></a></li>
-                                    <li><a href="" target="_blank" title="Instagram"><i class="fab fa-instagram"
-                                                                                        style="color: #3f729b"></i></a></li>
-                                    <li><a href="" target="_blank" title="Youtube"><i class="fab fa-youtube"
-                                                                                      style="color: #c4302b"></i></a></li>
-                                    <li><a href="" target="_blank" title="Gmail"><i class="fas fa-envelope"
-                                                                                    style="color: #0e76a8"></i></a></li>
-                                </ul>
+                                    <li><a href="https://twitter.com/Pillarsofhope4?s=09" target="_blank" title="Twitter"><i class="fab fa-twitter"
+                                                                                                                             style="color: #00aced"></i></a></li>
+                                    <li><a href="https://www.facebook.com/Pillars-Childrens-home-Daystar-Athi-River-1855146178052221/" target="_blank" title="Facebook"><i class="fab fa-facebook"
+                                                                                                                                                                           style="color: #3b5998"></i></a></li>
+                                    <li><a href="https://instagram.com/pillarsofhopeschildrenhome?igshid=zrm41xd9sj0a" target="_blank" title="Instagram"><i class="fab fa-instagram"
+                                                                                                                                                            style="color: #3f729b"></i></a></li>
+                                    <li><a href="https://youtube.com/channel/UCzImEvkZIRuKmoDUXfSvogg" target="_blank" title="Youtube"><i class="fab fa-youtube"
+                                                                                                                                          style="color: #c4302b"></i></a></li>
+                                    <li><a href="mailto:pillarsofhopeathiriver2017@gmail.com" target="_blank" title="Gmail"><i class="fas fa-envelope"
+                                                                                                                               style="color: #0e76a8"></i></a></li>
                             </div>
                         </div>
                         <div class="col-sm-12 col-lg-8">

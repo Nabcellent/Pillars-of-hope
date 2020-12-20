@@ -274,10 +274,10 @@ ul.social li {
   border-top: .05rem solid black;
   border-bottom: .05rem solid black;
   margin-bottom: 2px;
-  height: 100vh; /*-- remove --*/
+  height: 75vh; /*-- remove --*/
 }
 .fixed {
-  background-image: url('../img/tree.jpg');
+  background-image: url('../img/children/main.jpg');
   position: fixed;
 }
 
@@ -567,7 +567,7 @@ section {
   background-size: cover;
 }
 .main-contact-section {
-  padding: 2rem;
+  padding: 2.5rem;
 }
 .bg-theme {
   background: rgba(17, 45, 66, 0.8)!important;
@@ -648,7 +648,59 @@ ul.contact_social li {
 }
 /* Devices under 992px (xl) */
 @media (max-width: 991.98px) {
-
+  .card-body {
+    padding: 1rem 0!important;
+  }
+  .card-contact {
+    margin: 0 .5rem 1rem;
+    border-radius: 1rem;
+    border: .3rem solid;
+    padding: .4rem!important;
+  }
+  .card-contact h1 {
+    font-size: 20pt;
+    margin-bottom: 20px;
+  }
+  .card-contact h5, .card-contact h5 a {
+    font-size: .8rem;
+  }
+  .icon-part {
+    height: 1rem;
+    width: 1rem;
+    border: none;
+    font-size: .7rem;
+    margin-right: .3rem!important;
+    margin-left: 0!important;
+  }
+  ul.contact_social {
+    height: 4rem;
+    line-height: 7rem;
+  }
+  .contact_social .svg-inline--fa {
+    font-size: 1.2rem;
+    margin: 0 .7rem;
+    color: lightgrey!important;
+  }
+  #contact_form input::placeholder, textarea::placeholder {
+    font-size: .7rem;
+  }
+  #contact_form input {
+    border-top: none;
+    height: 2rem;
+  }
+  #contact_form textarea {
+    border-top: none;
+    height: 5rem;
+  }
+  .send {
+    float: right!important;
+  }
+  .btn-outline-light {
+    font-size: .9rem;
+    padding: 0 .1rem;
+    width: 5rem;
+    border-radius: .5rem!important;
+  }
 }
 /* Devices under 768px (md) */
 @media (max-width: 767.98px) {
