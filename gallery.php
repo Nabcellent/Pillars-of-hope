@@ -167,7 +167,7 @@
 
         <div class="col-md-6">
             <div class="card text-center">
-                <img src="img/team/team2.png" alt="" class="card-img-top">
+                <img src="img/gallery/intro/WhatsApp%20Image%202020-12-20%20at%2020.23.52.jpeg" alt="" class="card-img-top">
                 <div class="card-body">
                     <h4>Mr. Vitalis Nyambeka</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis deserunt eveniet magnam non perspiciatis porro. Accusamus aliquam asperiores consequuntur culpa fugiat ipsum magnam? Atque debitis fugit officia sint soluta. Commodi.</p>

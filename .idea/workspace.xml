@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
+    <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="gallery carousel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/gallery css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,21 +73,7 @@
       <workItem from="1608143827462" duration="62009000" />
       <workItem from="1608277185095" duration="9206000" />
       <workItem from="1608292267751" duration="1583000" />
-      <workItem from="1608305586493" duration="69021000" />
-    </task>
-    <task id="LOCAL-00009" summary="about_us.php">
-      <created>1607987052273</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1607987052335</updated>
-    </task>
-    <task id="LOCAL-00010" summary="about_us.php">
-      <created>1607987136055</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1607987136055</updated>
+      <workItem from="1608305586493" duration="69522000" />
     </task>
     <task id="LOCAL-00011" summary="about_us.php">
       <created>1607988007295</created>
@@ -419,7 +404,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608491036655</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="gallery carousel">
+      <created>1608492144911</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1608492144911</updated>
+    </task>
+    <task id="LOCAL-00059" summary="gallery carousel">
+      <created>1608492303831</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1608492303831</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
