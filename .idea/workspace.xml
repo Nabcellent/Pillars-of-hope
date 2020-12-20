@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/construction/670a001d48c6f1b326890c9d1f43143f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/construction/Building-Material-Must-for-any-Type-of-Construction.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/construction/edilizia-sx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/construction/f0b1d01c62bed63ebf51f850e6316fba.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/construction/maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/others/7DrQjq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/others/835-8354239_water-tank-in-png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/others/HTB1wkQiimfD8KJjSszhq6zIJFXaD.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/others/IMG_3269.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/others/products_steve_silver_color_zappa_zp700t+8x500s-b0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/stationery/149-1493075_school-bag-png-picture-transparent-school-bag-png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/stationery/GettyImages_599501326.0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/stationery/depositphotos_6432327-stock-photo-stack-of-textbooks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/stationery/e0b762a5-b85c-4ca3-a718-26c1acb584c2-large16x9_SchoolSupplies.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/stationery/office_school_stationery_01_hd_picture_166593.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/stationery/photo-1456735190827-d1262f71b8a3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/swipers/stationery/worldstationerydaye1429445978379.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_us.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact_us.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,14 +73,7 @@
       <workItem from="1608143827462" duration="62009000" />
       <workItem from="1608277185095" duration="9206000" />
       <workItem from="1608292267751" duration="1583000" />
-      <workItem from="1608305586493" duration="51063000" />
-    </task>
-    <task id="LOCAL-00003" summary="Added more paragraphs to main page heading&#10;Completed full width of first Page">
-      <created>1607690797191</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1607690797191</updated>
+      <workItem from="1608305586493" duration="51514000" />
     </task>
     <task id="LOCAL-00004" summary="Modified home name underline">
       <created>1607691191492</created>
@@ -437,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608438679883</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="index">
+      <created>1608459942664</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1608459942721</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

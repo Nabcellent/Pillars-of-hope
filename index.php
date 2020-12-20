@@ -425,9 +425,8 @@ require_once "templates/header.php";
         <div class="row py-4">
             <div class="col-lg-4 mb-4 my-lg-auto">
                 <h1 class="font-weight-bold mb-3">HOME CONSTRUCTION</h1>
-                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, alias asperiores
-                    aut beatae cupiditate est et expedita explicabo illo iste labore nesciunt provident quas quis
-                    repudiandae, suscipit tempore velit voluptatem!</p>
+                <p class="mb-4">In supporting Pillars Children's Home Construction, Please bank into any of the accounts
+                    at the bottom right of this page and WhatsApp your name and the material contributed to the funds (Accounts) Manager.</p>
                 <a href="https://changa.page.link/6ecJq" class="btn btn-outline-dark btn-lg"
                    target="_blank">Contribute</a>
             </div>
