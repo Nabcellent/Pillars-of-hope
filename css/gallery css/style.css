@@ -43,6 +43,9 @@ body {
 
 /*=======  Slider  =======*/
 
+.carousel {
+  overflow: hidden;
+}
 .carousel-item {
   height: 100vh;
 }
@@ -54,6 +57,10 @@ body {
   position: absolute;
   top: 38%;
   text-transform: uppercase;
+}
+.carousel-caption .bg-dark {
+  background-color: rgba(0, 0, 0, .6)!important;
+  border-radius: 5rem;
 }
 .carousel-caption h1 {
   font-size: 3.8rem;
@@ -70,6 +77,58 @@ body {
 .btn-lg {
   border-width: medium;
 }
+
+.bubbles {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  bottom: -5rem;
+}
+.bubbles img {
+  animation: bubble 7s linear infinite;
+}
+
+.bubbles img:nth-child(1) {
+  width: 2.1rem;
+  animation-delay: 4s;
+}
+.bubbles img:nth-child(2) {
+  width: 1rem;
+  animation-delay: 0s;
+}
+.bubbles img:nth-child(3) {
+  width: 1.5rem;
+  animation-delay: 6s;
+}
+.bubbles img:nth-child(4) {
+  width: 1.7rem;
+  animation-delay: 12s;
+}
+.bubbles img:nth-child(5) {
+  width: 2rem;
+  animation-delay: 8s;
+}
+
+
+@keyframes bubble {
+  0% {
+    transform: translateY(0);
+    opacity: 0;
+  }
+  40% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-90vh);
+    opacity: 0;
+  }
+}
+
 
 
 

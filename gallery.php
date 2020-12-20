@@ -54,19 +54,25 @@
         </ol>
         <div class="carousel-inner" role="listbox">
             <!-- Slide 1 -->
-            <div class="carousel-item active" style="background-image: url('img/computers.png')">
-                <div class="carousel-caption text-center">
-                    <h1>Pillars of Hope</h1>
-                    <h3>Animated Gallery</h3>
-                    <a href="#gallery" class="btn btn-outline-light btn-lg">View Gallery</a>
-                </div>
+            <div class="carousel-item active" style="background-image: url('img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.51 (2).jpeg');
+                                filter: grayscale(.7) brightness(.5);">
             </div>
+                <div class="carousel-caption text-center">
+                    <div class="bg-dark mx-auto p-3 w-50">
+                        <h1>Animated Gallery</h1>
+                        <a href="#gallery" class="btn btn-outline-light btn-lg">View Gallery</a>
+                    </div>
+                </div>
 
             <!-- Slide 2 -->
-            <div class="carousel-item" style="background-image: url('img/computers-2.png')"></div>
+            <div class="carousel-item" style="background-image: url('img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.49.jpeg');
+                                filter: grayscale(.7) brightness(.5);">
+            </div>
 
             <!-- Slide 3 -->
-            <div class="carousel-item" style="background-image: url('img/computers-3.png')"></div>
+            <div class="carousel-item" style="background-image: url('img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.49 (1).jpeg');
+                                filter: grayscale(.7) brightness(.5);">
+            </div>
         </div>
         <!-- End carousel inner -->
 
@@ -78,6 +84,14 @@
         <a href="#carousel_example_indicators" class="carousel-control-next" role="button" data-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
         </a>
+
+        <div class="bubbles">
+            <img src="img/gallery/intro/bubble.png" alt="">
+            <img src="img/gallery/intro/bubble.png" alt="">
+            <img src="img/gallery/intro/bubble.png" alt="">
+            <img src="img/gallery/intro/bubble.png" alt="">
+            <img src="img/gallery/intro/bubble.png" alt="">
+        </div>
 
     </div>
     <!-- End Image Slider -->

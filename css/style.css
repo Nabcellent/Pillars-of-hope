@@ -285,11 +285,10 @@ ul.social li {
 
 /*=======  MODAL  =======*/
 .modal a {
-  color: maroon;
+  color: darkblue;
 }
 .modal a:hover {
-  color: darkblue;
-  text-decoration: none;
+  color: maroon;
 }
 
 
