@@ -59,7 +59,7 @@
             </div>
                 <div class="carousel-caption text-center">
                     <div class="bg-dark mx-auto p-3 w-50">
-                        <h1>Animated Gallery</h1>
+                        <h2>Animated Gallery</h2>
                         <a href="#gallery" class="btn btn-outline-light btn-lg">View Gallery</a>
                     </div>
                 </div>

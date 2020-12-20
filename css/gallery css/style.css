@@ -62,8 +62,8 @@ body {
   background-color: rgba(0, 0, 0, .6)!important;
   border-radius: 5rem;
 }
-.carousel-caption h1 {
-  font-size: 3.8rem;
+.carousel-caption h2 {
+  font-size: 3.2rem;
   font-weight: 600;
   letter-spacing: .3rem;
   text-shadow: .1rem .1rem .8rem black;
@@ -303,6 +303,12 @@ hr.socket {
   }
   .gallery img {
     filter: grayscale(0) brightness(1);
+  }
+  .carousel-caption .bg-dark {
+    width: 100%!important;
+  }
+  .carousel-caption h2 {
+    font-size: 2rem!important;
   }
 }
 

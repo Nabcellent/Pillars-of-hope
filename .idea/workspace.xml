@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/gallery/intro/1394863.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/intro/2235b936466289.571df25e8cfad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.49 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.49.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.50 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.50.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.51 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.51 (2).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.51.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.52.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/gallery css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gif/poo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,14 +74,7 @@
       <workItem from="1608143827462" duration="62009000" />
       <workItem from="1608277185095" duration="9206000" />
       <workItem from="1608292267751" duration="1583000" />
-      <workItem from="1608305586493" duration="67885000" />
-    </task>
-    <task id="LOCAL-00008" summary="Modified for mobile and tablet css">
-      <created>1607695712670</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1607695712670</updated>
+      <workItem from="1608305586493" duration="69021000" />
     </task>
     <task id="LOCAL-00009" summary="about_us.php">
       <created>1607987052273</created>
@@ -438,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608469930809</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="gallery carousel">
+      <created>1608491036568</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1608491036655</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +445,8 @@
     <MESSAGE value="index" />
     <MESSAGE value="construction modal" />
     <MESSAGE value="gallery jumbotron" />
-    <option name="LAST_COMMIT_MESSAGE" value="gallery jumbotron" />
+    <MESSAGE value="gallery carousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="gallery carousel" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
