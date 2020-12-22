@@ -37,11 +37,11 @@ require_once "templates/header.php";
 
     <!-- Start Social Jumbotron -->
 
-    <div class="jumbotron sticky-top">
+    <div class="jumbotron sticky-top p-1">
         <div class="container">
             <div class="row justify-content-center text-center">
-                <div class="col-sm-6 col-md-7 col-lg-8 col-xl-10 pt-1">
-                    <h1 class="display-4 text-center about_us_display_4">PILLARS OF HOPE CHILDREN'S HOME</h1>
+                <div class="col-sm-12 col-md-12 col-lg-8 col-xl-12 pt-1">
+                    <h1 class="display-4 text-center">PILLARS OF HOPE CHILDREN'S HOME</h1>
                 </div>
             </div>
         </div>
@@ -68,7 +68,7 @@ require_once "templates/header.php";
 
     <div class="col-11 mt-5 m-auto">
         <h1 class="text-center font-weight-bold">OUR HISTORY</h1>
-        <div class="border-top border-dark w-75 mx-auto my-5 my-sm-3"></div>
+        <div class="border-top border-dark w-75 mx-auto my-sm-3"></div>
         <p>This is a non profitable institution which was started in 2013 with two
             gentlemen namely Sir Vitalis Nyambeka and Sir Moses Muchika. Sir Vitalis
             used to live and work at Nairobi with his family. He supported the home

@@ -346,7 +346,7 @@ footer p {
   }
 
   /*  About Us  */
-  .about_us_display_4 {
+  .display-4 {
     font-size: 3rem;
   }
 }
@@ -366,7 +366,7 @@ footer p {
   }
 
   /*  About Us  */
-  .about_us_display_4 {
+  .display-4 {
     font-size: 2.3rem;
   }
 }
@@ -395,7 +395,7 @@ footer p {
   }
 
   /*  About Us  */
-  .about_us_display_4 {
+  .display-4 {
     font-size: 2rem;
   }
 }
@@ -449,7 +449,7 @@ footer p {
   }
 
   /*  About Us  */
-  .about_us_display_4 {
+  .display-4 {
     font-size: 1.8rem;
   }
 }
@@ -533,26 +533,22 @@ Extra (xl) large devices (large desktops, 1200px and up)
   font-size: 2.5rem;
   font-weight: 900;
 }
-.text {
-  font-size: 14pt;
-  color: #545454;
-  line-height: 1.7rem;
-  text-align: justify;
-  margin-bottom: 2rem;
-}
 .location {
   display: flex;
   justify-content: space-between;
   font-weight: 700;
   font-size: 16pt;
 }
+.display-4 {
+  font-size: 3.2rem;
+}
 
 /*============= MEDIA QUERIES =============*/
 
 /* Devices under 1199px (xl) */
 @media (max-width: 1199.98px) {
-  .about_us_display_4 {
-    font-size: 3rem;
+  .display-4 {
+    font-size: 2.5rem;
   }
   .inner-container {
     padding: 80px;
@@ -561,7 +557,7 @@ Extra (xl) large devices (large desktops, 1200px and up)
 
 /* Devices under 992px (xl) */
 @media (max-width: 991.98px) {
-  .about_us_display_4 {
+  .display-4 {
     font-size: 2.3rem;
   }
   .about-section {
@@ -576,15 +572,15 @@ Extra (xl) large devices (large desktops, 1200px and up)
 
 /* Devices under 768px (md) */
 @media (max-width: 767.98px) {
-  .about_us_display_4 {
+  .display-4 {
     font-size: 2rem;
   }
 }
 
 /* Devices under 576px (sm) */
 @media (max-width: 575.98px) {
-  .about_us_display_4 {
-    font-size: 1.8rem;
+  .display-4 {
+    font-size: 1.7rem;
   }
   .about-section {
     padding: 0;
