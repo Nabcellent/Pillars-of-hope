@@ -53,13 +53,12 @@ require_once "templates/header.php";
     <div class="container my-4">
         <div class="row py-4">
             <div class="col-lg-4 mb-4 my-lg-auto">
-                <img src="img/responsive.png" alt="SOME LOGO" class="w-100">
+                <img src="img/about%20us/photo_2020-12-22_12-29-39.jpg" alt="SOME LOGO" class="w-100 shadow">
             </div>
             <div class="col-lg-8">
                 <h2 class="mb-3">INTRODUCTION</h2>
-                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, alias asperiores
-                    aut beatae cupiditate est et expedita explicabo illo iste labore nesciunt provident quas quis
-                    repudiandae, suscipit tempore velit voluptatem!</p>
+                <p class="mb-4">We family of Pillars of Hope Children's Home, Daystar Athi River greatly take this opportunity to appreciate you for your friendship, support contributions and donations. Thank You So Much!
+                    <br>May the almighty God Bless you abundantly!</p>
             </div>
         </div>
     </div>
