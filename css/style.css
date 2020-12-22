@@ -340,6 +340,11 @@ footer p {
   .carousel-caption h3 {
     font-size: 1.8rem;
   }
+
+  .main_page_content h1 {
+    font-size: 3.1rem;
+  }
+
   /*  About Us  */
   .about_us_display_4 {
     font-size: 3rem;
@@ -354,6 +359,10 @@ footer p {
     width: 40px;
     height: 4px;
     margin: 0 4px;
+  }
+
+  .main_page_content h1 {
+    font-size: 2.5rem;
   }
 
   /*  About Us  */
@@ -381,6 +390,10 @@ footer p {
     margin: 0 .8rem;
   }
 
+  .main_page_content h1 {
+    font-size: 2rem;
+  }
+
   /*  About Us  */
   .about_us_display_4 {
     font-size: 2rem;
@@ -399,6 +412,11 @@ footer p {
     font-size: 1.4rem;
     margin: 0 .5rem;
   }
+
+  .swiper-slide {
+    margin-top: 1rem;
+  }
+
   footer hr {
     margin: .4rem;
   }
