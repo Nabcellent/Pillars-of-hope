@@ -44,7 +44,7 @@ html, body {
 }
 .custom-toggler.navbar-toggler:hover {
   border-color: rgba(0, 0, 0, 0.5);
-  transform: scale(1);
+  transform: scale(.8);
 }
 
 
@@ -408,6 +408,10 @@ footer p {
     font-size: 11pt;
     padding: .3rem .6rem;
   }
+  .nav-link:hover {
+    transform: scale(1.01);
+  }
+
   .jumbotron .svg-inline--fa {
     font-size: 1.4rem;
     margin: 0 .5rem;
