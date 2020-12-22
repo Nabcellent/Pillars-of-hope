@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about_us.php" beforeDir="false" afterPath="$PROJECT_DIR$/about_us.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,14 +75,7 @@
       <workItem from="1608277185095" duration="9206000" />
       <workItem from="1608292267751" duration="1583000" />
       <workItem from="1608305586493" duration="69589000" />
-      <workItem from="1608624126777" duration="2813000" />
-    </task>
-    <task id="LOCAL-00015" summary="nav">
-      <created>1608020695566</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1608020695566</updated>
+      <workItem from="1608624126777" duration="4472000" />
     </task>
     <task id="LOCAL-00016" summary="contact">
       <created>1608077760368</created>
@@ -419,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608626357222</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="home-nav">
+      <created>1608627076988</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1608627076988</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +447,8 @@
     <MESSAGE value="construction modal" />
     <MESSAGE value="gallery jumbotron" />
     <MESSAGE value="gallery carousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="gallery carousel" />
+    <MESSAGE value="home-nav" />
+    <option name="LAST_COMMIT_MESSAGE" value="home-nav" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

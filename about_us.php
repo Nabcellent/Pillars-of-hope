@@ -8,7 +8,20 @@ require_once "templates/header.php";
         <div class="about-section">
             <div class="inner-container">
                 <h1>ABOUT US</h1>
-                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ad aliquid aut consectetur cum dolorem ducimus hic, impedit ipsum nobis non, odio praesentium quasi sint sit ut vel vitae voluptatum?</p>
+
+                <div class="row">
+                    <div class="col-md-12"><h4>Mission</h4></div>
+                    <p>To provide a Safe Heaven to vulnerable children in Kenya.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-12"><h4>Vision</h4></div>
+                    <p>Re-saving an meeting the needs of Vulnerable children.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-12"><h4>Objective</h4></div>
+                    <p>To provide Shelter and safety nets for orphaned, destitute vulnerable and other needy children.</p>
+                </div>
+
                 <div class="location">
                     <span>Athi River,</span>
                     <span>Mavoko</span>
