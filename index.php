@@ -305,7 +305,7 @@ require_once "templates/header.php";
 
         <!-- Start Two Column Section -->
 
-        <div class="container mt-5">
+        <div class="container mt-5 make_a_donation">
             <div class="row py-4">
                 <div class="col-lg-5 mb-4 my-lg-auto">
                     <h1 class="font-weight-bold mb-3">MAKE A DONATION</h1>
