@@ -421,9 +421,9 @@ require_once "templates/header.php";
 
     <!-- Start Two Column Section -->
 
-    <div class="container my-5">
+    <div class="container my-5 home_construction">
         <div class="row py-4">
-            <div class="col-lg-5 mb-4 my-lg-auto">
+            <div class="col-lg-5 col-sm-12 mb-4 my-lg-auto">
                 <h1 class="font-weight-bold mb-3">HOME CONSTRUCTION</h1>
                 <p class="mb-0">In supporting Pillars Children's Home Construction, Please bank into any of the accounts
                     at the bottom right of this page and WhatsApp your name and the material contributed to the funds (Accounts) Manager.</p>
@@ -434,7 +434,7 @@ require_once "templates/header.php";
                     See Plan...
                 </button>
             </div>
-            <div class="col-lg-7"><img src="img/index/project_house/house1.jpg" alt="SOME LOGO" class="w-100"></div>
+            <div class="col-lg-7 col-sm-12"><img src="img/index/project_house/house1.jpg" alt="New Home Image" class="w-100"></div>
         </div>
     </div>
 

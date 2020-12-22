@@ -418,14 +418,6 @@ footer p {
     margin-bottom: 1rem;
   }
 
-  footer hr {
-    margin: .4rem;
-  }
-  footer p {
-    font-size: 10pt;
-    margin: 0 0 .7rem;
-  }
-
   .align-self-center {
     padding: 0!important;
   }
@@ -438,6 +430,18 @@ footer p {
   }
   .swiper-button-prev, .swiper-button-next {
     display: none;
+  }
+
+  .home_construction h1, .make_a_donation h1 {
+    font-size: 1.8rem;
+  }
+
+  footer hr {
+    margin: .4rem;
+  }
+  footer p {
+    font-size: 10pt;
+    margin: 0 0 .7rem;
   }
 
   /*  About Us  */

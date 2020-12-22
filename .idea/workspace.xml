@@ -75,14 +75,7 @@
       <workItem from="1608277185095" duration="9206000" />
       <workItem from="1608292267751" duration="1583000" />
       <workItem from="1608305586493" duration="69589000" />
-      <workItem from="1608624126777" duration="1841000" />
-    </task>
-    <task id="LOCAL-00013" summary="about_us.php">
-      <created>1607991175064</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1607991175064</updated>
+      <workItem from="1608624126777" duration="2170000" />
     </task>
     <task id="LOCAL-00014" summary="nav">
       <created>1608018896316</created>
@@ -420,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608625342417</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="gallery carousel">
+      <created>1608626054532</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1608626054532</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
