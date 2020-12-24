@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/gallery/co-founder.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gallery/founder.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/admins/WhatsApp Image 2020-12-22 at 20.12.30.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/admins/WhatsApp Image 2020-12-22 at 20.14.08.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/admins/WhatsApp Image 2020-12-22 at 20.14.09.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/admins/WhatsApp Image 2020-12-22 at 20.14.11 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/admins/WhatsApp Image 2020-12-22 at 20.14.11.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/admins/WhatsApp Image 2020-12-22 at 20.14.12.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.54.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.55 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.55.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.56 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.56 (2).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.56.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.57 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.57.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.58 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.58.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.59 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.10.59.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-23 at 22.16.27.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-24 at 08.06.30 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-24 at 08.06.30.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-24 at 08.06.31 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-24 at 08.06.31 (2).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-24 at 08.06.31.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Image 2020-12-24 at 08.06.32.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Video 2020-12-23 at 07.58.37.3gpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index/into/christmas/WhatsApp Video 2020-12-23 at 12.41.33.3gpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/gallery css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/computers-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/computers-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/computers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/desk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/intro/WhatsApp Image 2020-12-20 at 20.23.52.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/imac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mac.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/nuno.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/responsive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/team1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/team2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="56e7aff2-f666-46cc-b970-7dda5b3aa48c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,21 +72,7 @@
       <workItem from="1608292267751" duration="1583000" />
       <workItem from="1608305586493" duration="69589000" />
       <workItem from="1608624126777" duration="8163000" />
-      <workItem from="1608799883875" duration="12259000" />
-    </task>
-    <task id="LOCAL-00019" summary="contact">
-      <created>1608116596100</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1608116596100</updated>
-    </task>
-    <task id="LOCAL-00020" summary="contact">
-      <created>1608116745792</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1608116745792</updated>
+      <workItem from="1608799883875" duration="12695000" />
     </task>
     <task id="LOCAL-00021" summary="contact">
       <created>1608117519471</created>
@@ -465,7 +403,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608632731035</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="images">
+      <created>1608813087629</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1608813087629</updated>
+    </task>
+    <task id="LOCAL-00069" summary="images">
+      <created>1608813406283</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1608813406283</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,7 +445,8 @@
     <MESSAGE value="gallery carousel" />
     <MESSAGE value="home-nav" />
     <MESSAGE value="about_us.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="about_us.php" />
+    <MESSAGE value="images" />
+    <option name="LAST_COMMIT_MESSAGE" value="images" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
