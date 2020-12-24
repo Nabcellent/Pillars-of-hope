@@ -134,7 +134,6 @@ require_once "templates/header.php";
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" style="background-image:url(img/index/swipers/food/1200x830.jpg)"></div>
-                            <div class="swiper-slide" style="background-image:url(img/index/swipers/food/CLyVQ60UYAI87-1.jpg)"></div>
                             <div class="swiper-slide" style="background-image:url(img/index/swipers/food/grocery.jpg)"></div>
                             <div class="swiper-slide" style="background-image:url(img/index/swipers/food/maipic.jpg)"></div>
                         </div>
@@ -378,36 +377,43 @@ require_once "templates/header.php";
         </div>
         <!-- End Bundle Pack Jumbotron -->
 
-        <!-- Three Column Section --
+        <!-- Three Column Section -->
 
-        <div class="container">
+        <div class="col-12 text-center mt-5">
+            <h1 class="display-4 pt-4">OUR TEAM</h1>
+            <div class="border-top border-dark w-50 mx-auto my-3"></div>
+
+            <p class="lead">The people that make Pillars a Home for our Children</p>
+        </div>
+
+        <div class="container admins">
             <div class="row justify-content-center my-5">
-                <div class="col-md-6 col-lg-4 my-4  text-center">
-                    <h4 class="my-3">Some Website</h4>
-                    <img class="w-100" src="img/agency.png" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, aut beatae id ipsam nam
-                        possimus quo vitae? Adipisci cumque dignissimos, ex, excepturi illo magnam nobis optio quam
-                        repudiandae, sit voluptates.</p>
-                    <a href="https://w3newbie.com" target="_blank" class="btn btn-outline-dark btn-md">See the
-                        design...</a>
+                <div class="col-md-6 col-lg-4 text-center">
+                    <img class="img-fluid" src="img/index/admins/WhatsApp%20Image%202020-12-22%20at%2020.14.08.jpeg" alt="">
+                    <h4>Iris Simiyu</h4>
+                    <h5>Assistant Chairlady</h5>
                 </div>
-                <div class="col-md-6 col-lg-4 my-4  text-center">
-                    <h4 class="my-3">Some Website</h4>
-                    <img class="w-100" src="img/business.png" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, aut beatae id ipsam nam
-                        possimus quo vitae? Adipisci cumque dignissimos, ex, excepturi illo magnam nobis optio quam
-                        repudiandae, sit voluptates.</p>
-                    <a href="https://w3newbie.com" target="_blank" class="btn btn-outline-dark btn-md">See the
-                        design...</a>
+                <div class="col-md-6 col-lg-4  text-center">
+                    <img src="img/index/admins/WhatsApp%20Image%202020-12-22%20at%2020.14.11%20(1).jpeg" alt="">
+                    <h4>Gladys Muhonja</h4>
+                    <h5>Treasurer</h5>
                 </div>
-                <div class="col-md-6 col-lg-4 my-4  text-center">
-                    <h4 class="my-3">Some Website</h4>
-                    <img class="w-100" src="img/parallax.png" alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, aut beatae id ipsam nam
-                        possimus quo vitae? Adipisci cumque dignissimos, ex, excepturi illo magnam nobis optio quam
-                        repudiandae, sit voluptates.</p>
-                    <a href="https://w3newbie.com" target="_blank" class="btn btn-outline-dark btn-md">See the
-                        design...</a>
+                <div class="col-md-6 col-lg-4 text-center">
+                    <img class="img-fluid" src="img/index/admins/WhatsApp%20Image%202020-12-22%20at%2020.14.09.jpeg" alt="">
+                    <h4>Moses Mulema</h4>
+                    <h5>Assistant Treasurer</h5>
+                </div>
+            </div>
+            <div class="row justify-content-center my-5">
+                <div class="col-md-6 col-lg-4 text-center">
+                    <img class="img-fluid" src="img/index/admins/WhatsApp%20Image%202020-12-22%20at%2020.12.30.jpeg" alt="">
+                    <h4>Peter Munene</h4>
+                    <h5>Secretary</h5>
+                </div>
+                <div class="col-md-6 col-lg-4  text-center">
+                    <img src="img/index/admins/WhatsApp%20Image%202020-12-22%20at%2020.14.11.jpeg" alt="">
+                    <h4>Stella Museve</h4>
+                    <h5>Fashion Designer</h5>
                 </div>
             </div>
         </div>

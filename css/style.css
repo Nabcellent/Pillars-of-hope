@@ -246,25 +246,14 @@ ul.social li {
 
 
 
-/*============= COLUMN CONTENT =============*/
+
+/*============= AFTER SWIPERS =============*/
 
 .fa-square {
   opacity: .10;
 }
 
-/*=======  Donate Now  =======*/
 
-.donate_now_card h4 {
-  font-size: 1.1rem;
-}
-.donate_now_card h5 {
-  margin-bottom: 0!important;
-  font-size: .9rem;
-  color: darkred;
-}
-.donate_now_card li {
-  font-size: .8rem;
-}
 
 
 /*===== FIXED BACKGROUND IMG =====*/
@@ -283,6 +272,35 @@ ul.social li {
 
 
 
+
+/*=======  ADMINISTRATORS  =======*/
+
+.admins img {
+  width: 100%;
+  height: 20rem;
+  object-fit: cover;
+  object-position: center center;
+}
+
+
+
+/*=======  Donate Now  =======*/
+
+.donate_now_card h4 {
+  font-size: 1.1rem;
+}
+.donate_now_card h5 {
+  margin-bottom: 0!important;
+  font-size: .9rem;
+  color: darkred;
+}
+.donate_now_card li {
+  font-size: .8rem;
+}
+
+
+
+
 /*=======  MODAL  =======*/
 .modal a {
   color: darkblue;
@@ -290,6 +308,7 @@ ul.social li {
 .modal a:hover {
   color: maroon;
 }
+
 
 
 
@@ -392,6 +411,10 @@ footer p {
 
   .main_page_content h1 {
     font-size: 2rem;
+  }
+
+  .img-area img {
+    display: inline-block;
   }
 
   /*  About Us  */
