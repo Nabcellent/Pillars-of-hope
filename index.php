@@ -388,29 +388,29 @@ require_once "templates/header.php";
 
         <div class="container admins">
             <div class="row justify-content-center my-5">
-                <div class="col-md-6 col-lg-4 text-center">
+                <div class="col-md-6 col-lg-4 mb-3 text-center">
                     <img class="img-fluid" src="img/index/admins/WhatsApp%20Image%202020-12-22%20at%2020.14.08.jpeg" alt="">
                     <h4>Iris Simiyu</h4>
                     <h5>Assistant Chairlady</h5>
                 </div>
-                <div class="col-md-6 col-lg-4  text-center">
+                <div class="col-md-6 col-lg-4 mb-3 text-center">
                     <img src="img/index/admins/WhatsApp%20Image%202020-12-22%20at%2020.14.11%20(1).jpeg" alt="">
                     <h4>Gladys Muhonja</h4>
                     <h5>Treasurer</h5>
                 </div>
-                <div class="col-md-6 col-lg-4 text-center">
+                <div class="col-md-6 col-lg-4 mb-3 text-center">
                     <img class="img-fluid" src="img/index/admins/WhatsApp%20Image%202020-12-22%20at%2020.14.09.jpeg" alt="">
                     <h4>Moses Mulema</h4>
                     <h5>Assistant Treasurer</h5>
                 </div>
             </div>
             <div class="row justify-content-center my-5">
-                <div class="col-md-6 col-lg-4 text-center">
+                <div class="col-md-6 col-lg-4 mb-3 text-center">
                     <img class="img-fluid" src="img/index/admins/WhatsApp%20Image%202020-12-22%20at%2020.12.30.jpeg" alt="">
                     <h4>Peter Munene</h4>
                     <h5>Secretary</h5>
                 </div>
-                <div class="col-md-6 col-lg-4  text-center">
+                <div class="col-md-6 col-lg-4 mb-3 text-center">
                     <img src="img/index/admins/WhatsApp%20Image%202020-12-22%20at%2020.14.11.jpeg" alt="">
                     <h4>Stella Museve</h4>
                     <h5>Fashion Designer</h5>
