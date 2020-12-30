@@ -150,7 +150,7 @@
                 for ($i = 0; $i < $start_img_set_2; $i++)
                 {
                     $num = $files[$i];
-                    echo '<img src="'.$num.'" alt="random image">'."&nbsp;&nbsp;";
+                    echo '<a href="'.$num.'" target="_blank"><img src="'.$num.'" alt="uploaded image"></a>';
                 }
 
                 ?>
@@ -164,7 +164,7 @@
                 for ($i = $start_img_set_2; $i < $start_img_set_3; $i++)
                 {
                     $num = $files[$i];
-                    echo '<img src="'.$num.'" alt="random image">'."&nbsp;&nbsp;";
+                    echo '<a href="'.$num.'" target="_blank"><img src="'.$num.'" alt="uploaded image"></a>';
                 }
 
                 ?>
@@ -178,7 +178,7 @@
                 for ($i = $start_img_set_3; $i < $img_no; $i++)
                 {
                     $num = $files[$i];
-                    echo '<img src="'.$num.'" alt="random image">'."&nbsp;&nbsp;";
+                    echo '<a href="'.$num.'" target="_blank"><img src="'.$num.'" alt="uploaded image"></a>';
                 }
 
                 ?>

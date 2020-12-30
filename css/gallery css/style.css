@@ -275,11 +275,12 @@ hr.socket {
 
 
 /*=======  Media queries  =======*/
-@media(max-width: 767px) {
+@media(max-width: 992px) {
   .no-padding .gallery {
     flex: 50%;
   }
-
+}
+@media(max-width: 767px) {
   .carousel-caption h1 {
     font-size: 2.3rem;
     letter-spacing: .15rem;
