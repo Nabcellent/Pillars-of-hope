@@ -130,10 +130,58 @@
             <div class="heading-underline"></div>
         </div>
 
-        <!-- Start row -->
+        <!-- Start images -->
 
         <div class="row no-padding">
+
+            <?php
+
+            $files = glob("img/uploads/*.*");
+            $img_no = count($files);
+            $start_img_set_2 = ceil($img_no*(1/3));
+            $start_img_set_3 = ceil($img_no*(2/3));
+
+            ?>
+
             <div class="gallery">
+
+                <?php
+
+                for ($i = 0; $i < $start_img_set_2; $i++)
+                {
+                    $num = $files[$i];
+                    echo '<img src="'.$num.'" alt="random image">'."&nbsp;&nbsp;";
+                }
+
+                ?>
+
+            </div>
+
+            <div class="gallery">
+
+                <?php
+
+                for ($i = $start_img_set_2; $i < $start_img_set_3; $i++)
+                {
+                    $num = $files[$i];
+                    echo '<img src="'.$num.'" alt="random image">'."&nbsp;&nbsp;";
+                }
+
+                ?>
+
+            </div>
+
+            <div class="gallery">
+
+                <?php
+
+                for ($i = $start_img_set_3; $i < $img_no; $i++)
+                {
+                    $num = $files[$i];
+                    echo '<img src="'.$num.'" alt="random image">'."&nbsp;&nbsp;";
+                }
+
+                ?>
 
             </div>
         </div>
@@ -143,7 +191,7 @@
                 <h1>⬆...Our Children...⬆</h1>
             </div>
         </div>
-        <!-- End row -->
+        <!-- End images -->
 
     </div>
     <!-- End Jumbotron -->

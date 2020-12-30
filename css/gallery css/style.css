@@ -199,12 +199,12 @@ h3.heading {
   display: flex!important;
   flex-wrap: wrap!important;
   width: 100% !important;
-  max-height: 100rem;
+  /*max-height: 100rem;
   overflow: auto;
   padding: 2rem 0 2rem;
   box-shadow:
           inset 0 1.5rem .5rem -10px #CCC,
-          inset 0 -1.5rem .5rem -10px #CCC;
+          inset 0 -1.5rem .5rem -10px #CCC;*/
 }
 .gallery {
   flex: 33.3%;
