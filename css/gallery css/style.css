@@ -237,7 +237,7 @@ h3.heading {
 }
 #team img {
   width: 100%;
-  height: 50rem;
+  height: 55rem;
 }
 
 
@@ -279,6 +279,10 @@ hr.socket {
 @media(max-width: 992px) {
   .no-padding .gallery {
     flex: 50%;
+  }
+  #team img {
+    width: 100%;
+    height: auto;
   }
 }
 @media(max-width: 767px) {
