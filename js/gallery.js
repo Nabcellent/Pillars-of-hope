@@ -1,8 +1,4 @@
 $(document).ready(function() {
-    var num_rows = $('#num_rows').val();
-
-    get_images(0, num_rows);
-
     $(function() {
         var files = $('#files');
 
@@ -43,7 +39,13 @@ $(document).ready(function() {
         });
     });
 
-    function get_images(start, max) {
+
+    /* var num_rows = $('#num_rows').val();
+
+    get_images(0, num_rows);*/
+
+
+    /*function get_images(start, max) {
         if(start > max) {
             return;
         }
@@ -59,15 +61,15 @@ $(document).ready(function() {
             success: function(response) {
                 for(var i = 0; i < response.images.length; i++) {
                     add_imgs("../img/uploads/" + response.images[i].path, response.images[i].image_id);
-                    /*add_admin_imgs("../img/uploads/" + response.images[i].path, response.images[i].image_id);*/
+                    /!*add_admin_imgs("../img/uploads/" + response.images[i].path, response.images[i].image_id);*!/
                 }
 
                 get_images((start + 8), max);
             }
         });
-    }
+    }*/
 
-    function add_imgs(path) {
+    /*function add_imgs(path) {
         $('#gallery').find('.no-padding').find('.gallery:last').append('<a href="'+path+'" target="_blank"><img class="" src="'+path+'" alt="uploaded image"></a>');
 
         var image_count = $('#gallery').find('.no-padding').find('.gallery:last').children().length;
@@ -75,9 +77,10 @@ $(document).ready(function() {
         if(image_count === 3) {
             $('#gallery').find('.no-padding').append('<div class="gallery"></div>');
         }
-    }
+    }*/
 })
 
+/*
 function del_image(image_id) {
     if(image_id === 0) {
         alert('You are not able to delete this image now!');
@@ -95,4 +98,4 @@ function del_image(image_id) {
             }
         });
     }
-}
+}*/

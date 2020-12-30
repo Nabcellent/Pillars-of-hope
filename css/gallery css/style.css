@@ -186,10 +186,10 @@ h3.heading {
 /*=======  gallery  =======*/
 
 .add_files {
-  padding: 1.5rem;
-  margin: .5rem;
+  padding: 2rem!important;
+  margin: 1rem;
   border: .1rem dashed #0056B3;
-  /*display: none;*/
+  background-color: rgba(0, 0, 0, .4);
 }
 #error {
   color: darkred;

@@ -100,19 +100,19 @@
 <!-- End Home Section -->
 
 
-<!--- Start add Section -->
+<!--- Start add Section --
 
 <div id="add" class="offset">
-
-    <!--<div class="col-12 narrow text-center">
-        <div class="add_files">
+    <div class="row justify-content-center">
+        <div class="col-md-5 text-center text-white rounded add_files">
             <h1>Drag and Drop Files</h1>
             <input type="file" id="file_upload" name="attachments[]" value="Browse" multiple>
+            <div class="col-12 p-0">
+                <h1 id="error"></h1>
+                <h1 id="progress"></h1>
+            </div>
         </div>
-        <h1 id="error"></h1>
-        <h1 id="progress"></h1>
-    </div>-->
-
+    </div>
 </div>
 <!-- End add Section -->
 

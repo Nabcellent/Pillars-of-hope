@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/gallery css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insert/image_ins.php" beforeDir="false" afterPath="$PROJECT_DIR$/insert/image_ins.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/gallery.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,13 +88,6 @@
       <workItem from="1609262615958" duration="197000" />
       <workItem from="1609262814026" duration="1967000" />
       <workItem from="1609267169538" duration="25000" />
-    </task>
-    <task id="LOCAL-00025" summary="footer.php">
-      <created>1608120228604</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1608120228604</updated>
     </task>
     <task id="LOCAL-00026" summary="gallery.php">
       <created>1608131667544</created>
@@ -430,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609352764171</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="images">
+      <created>1609353748285</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1609353748285</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
