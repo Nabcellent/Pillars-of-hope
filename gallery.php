@@ -226,7 +226,7 @@
             <div class="card text-center">
                 <img src="img/gallery/co-founder.jpeg" alt="">
                 <div class="card-body">
-                    <h4>Mr. Vitalis Nyambeka</h4>
+                    <h4>Mrs. Gladys Muhonja</h4>
                     <p>Co-Founder.</p>
                 </div>
             </div>
