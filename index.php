@@ -4,6 +4,8 @@ require_once "templates/header.php";
 
 ?>
 
+
+
     <!-- Image Carousel -->
 
     <div class="carousel slide" id="carousel" data-ride="carousel" data-interval="6000">
@@ -356,26 +358,6 @@ require_once "templates/header.php";
     <!-- End Fixed Background IMG -->
 
     <div id="text-button-sticky">
-
-        <!-- Start Bundle Pack Jumbotron --
-
-        <div class="jumbotron sticky-top" style="margin-bottom: 2px;">
-            <div class="container">
-                <div class="row justify-content-center text-center">
-
-                    <div class="d-none d-md-block col-md-8 col-xl-7 my-auto">
-                        <h4>Responsive bundle pack of complete websites!</h4>
-                    </div>
-
-                    <div class="col-md-4 col-xl-3 pt-1 pt-md-2 pb-2">
-                        <a href="https://w3newbie.com" target="_blank" class="btn btn-primary btn-md">Check out the
-                            websites</a>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-        <!-- End Bundle Pack Jumbotron -->
 
         <!-- Three Column Section -->
 

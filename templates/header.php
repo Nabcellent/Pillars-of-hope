@@ -37,6 +37,7 @@
             <div class="collapse navbar-collapse" id="navbar_responsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item"><a href="../index.php" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link" data-toggle="modal" data-target="#profile_modal">Profile</a></li>
                     <li class="nav-item"><a href="../gallery.php" class="nav-link">Gallery</a></li>
                     <li class="nav-item"><a href="../about_us.php" class="nav-link">About Us</a></li>
                     <li class="nav-item"><a href="../contact_us.php" class="nav-link">Contact</a></li>
@@ -45,3 +46,33 @@
         </div>
     </nav>
     <!-- End Navigation -->
+
+    <!-- Start Profile Modal -->
+
+    <div class="modal" id="profile_modal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">OUR PROFILE</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col">
+                            <a href="../pdf/Pillars%20page%201-18.pdf" target="_blank">Pillars Page 1 - 18</a>
+                        </div>
+                        <div class="col">
+                            <a href="../pdf/Pillars%20page%201-18.pdf" target="_blank">Pillars Page 19 - 38</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End Profile Modal -->
+
