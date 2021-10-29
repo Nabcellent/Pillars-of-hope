@@ -1,12 +1,12 @@
 {
-  "name": "dummy/dummy",
+  "name": "nabcellent/vitalis",
   "description": "description",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
       "name": "Nabcellent",
-      "email": "michael.nabangi@strathmore.edu"
+      "email": "nabcellent.dev@gmail.com"
     }
   ],
   "require": {

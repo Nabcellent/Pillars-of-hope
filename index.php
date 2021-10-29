@@ -4,8 +4,6 @@ require_once "templates/header.php";
 
 ?>
 
-
-
     <!-- Image Carousel -->
 
     <div class="carousel slide" id="carousel" data-ride="carousel" data-interval="6000">
